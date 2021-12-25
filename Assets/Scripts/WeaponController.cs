@@ -79,9 +79,7 @@ public class WeaponController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-            Shoot();
- 
+        Shoot();
         Sway();
     }
     private void FixedUpdate()
