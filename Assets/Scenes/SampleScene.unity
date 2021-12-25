@@ -2874,35 +2874,25 @@ PrefabInstance:
       propertyPath: ADSPos
       value: 
       objectReference: {fileID: 1411542930}
-    - target: {fileID: 3313040303166998132, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
+      propertyPath: swayReset
+      value: 0.1
       objectReference: {fileID: 0}
-    - target: {fileID: 3313040303166998132, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.7071068
+      propertyPath: smoothMultuplier
+      value: 0.1
       objectReference: {fileID: 0}
-    - target: {fileID: 3313040303166998132, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
+      propertyPath: swayMultiplier
+      value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 3313040303166998132, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303166998132, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303166998132, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.719915
+      propertyPath: swaySmoothMultuplier
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 3313040303653297488, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}

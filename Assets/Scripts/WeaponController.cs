@@ -5,7 +5,8 @@ using UnityEngine;
 public class WeaponController : MonoBehaviour
 {
     [SerializeField] float swayMultiplier = 0f;
-    [SerializeField] float smoothMultuplier = 0f;
+    [SerializeField] float swaySmoothMultuplier = 0f;
+    [SerializeField] float swayReset = 0f;
     [SerializeField] float damage = 10f;
     [SerializeField] float range = 10f;
     [SerializeField] float fireRate = 15f;
@@ -14,11 +15,16 @@ public class WeaponController : MonoBehaviour
     public ParticleSystem MuzzleFlash;
     private FirstPersonCamera firstPersonCamera;
     private float xInput, yInput, nextTimeToFire = 0f;
-    private Quaternion rotationX, rotationY, swayRotation;
-    private Vector3 vel;
+    private Vector3 scopingVelocity;
+    // vectors for sway support
+    private Vector3 newWeaponRotation, newWeaponRotationVelocity, targetWeaponRotation, targetWeaponVelocity;
+    private Vector3 newWeaponMovementRotation, newWeaponMovementRotationVelocity, targetWeaponMovementRotation, targetWeaponMovementVelocity;
+    //
     private RaycastHit hit;
     private AudioSource audioSource;
 
+
+ 
     void Init()
     {
         firstPersonCamera = camera.GetComponent<FirstPersonCamera>();
@@ -26,25 +32,29 @@ public class WeaponController : MonoBehaviour
     }
     private void Sway()
     {
-        xInput = firstPersonCamera.Xrotation * swayMultiplier;
-        yInput = firstPersonCamera.Yrotation * swayMultiplier;
-        rotationX = Quaternion.AngleAxis(-yInput, Vector3.right);
-        rotationY = Quaternion.AngleAxis(xInput, Vector3.up);
-        swayRotation = rotationX * rotationY;
-        transform.localRotation = Quaternion.Slerp(transform.localRotation, swayRotation, smoothMultuplier * Time.deltaTime);
+        xInput = firstPersonCamera.Xrotation;
+        yInput = firstPersonCamera.Yrotation;
+        targetWeaponRotation.y += swayMultiplier * (false ? -xInput : xInput) * Time.deltaTime;
+        targetWeaponRotation.x += swayMultiplier * (false ?  yInput : -yInput) * Time.deltaTime;
+        targetWeaponRotation.x = Mathf.Clamp(targetWeaponRotation.x, -10f, 10f);
+        targetWeaponRotation.y = Mathf.Clamp(targetWeaponRotation.y, -10f, 10f);
+        targetWeaponRotation.z = targetWeaponRotation.y * 0.9f;
+        targetWeaponRotation = Vector3.SmoothDamp(targetWeaponRotation, Vector3.zero, ref targetWeaponVelocity, swayReset);
+        newWeaponRotation = Vector3.SmoothDamp(newWeaponRotation, targetWeaponRotation, ref newWeaponRotationVelocity, swaySmoothMultuplier);
+        transform.localRotation = Quaternion.Euler(newWeaponRotation);
     }
     private void AimDownSights()
     {
         if (Input.GetMouseButton(1))
         {
-         transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ADSPos.localPosition, ref vel, 3.5f * Time.deltaTime);
+         transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             camera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(camera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
             
           
         }
         else if (!Input.GetMouseButton(1))
         {
-            transform.localPosition = Vector3.SmoothDamp(transform.localPosition, WeaponPosition.localPosition, ref vel, 3.5f * Time.deltaTime);
+            transform.localPosition = Vector3.SmoothDamp(transform.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             camera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(camera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
         }
 
@@ -72,8 +82,8 @@ public class WeaponController : MonoBehaviour
     }
     void Start()
     {
+        newWeaponRotation = transform.localRotation.eulerAngles;
         Init();
-     
     }
 
     // Update is called once per frame
@@ -81,6 +91,7 @@ public class WeaponController : MonoBehaviour
     {
         Shoot();
         Sway();
+
     }
     private void FixedUpdate()
     {
