@@ -30,7 +30,6 @@ public class FirstPersonCamera : MonoBehaviour
     }
     private void Start()
     {
-     //   HideCursor();
-        
+        HideCursor(); 
     }
 }
