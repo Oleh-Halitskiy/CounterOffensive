@@ -25,11 +25,11 @@ public class FirstPersonCamera : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        GetMouseInput();
-        MoveCamera();
+       GetMouseInput();
+       MoveCamera();
     }
     private void Start()
     {
-        HideCursor(); 
+      HideCursor(); 
     }
 }

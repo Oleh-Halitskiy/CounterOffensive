@@ -10,46 +10,48 @@ public class FirstPersonMovement : MonoBehaviour
     [SerializeField] private float groundDistance = 0.4f;
     public LayerMask groundMask;
     public Transform groundCheck;
-    private float _xInput, _yInput;
-    private Vector3 _movementVector;
-    private Vector3 _velocity;
-    private CharacterController _characterController;
-    private bool _isGrounded, _jumpInput;
-    private Vector3 _moveVelocity;
-    private Vector3 _moveDirection;
+    private float xInput, yInput;
+    private Vector3 movementVector;
+    private Vector3 velocity;
+    private CharacterController characterController;
+    private bool isGrounded, jumpInput;
+    private Vector3 moveVelocity;
+    private Vector3 moveDirection;
     private float vel = 0.15f;
+    public float Xinpt { get { return xInput; } }
+    public float Yinpt { get { return yInput; } }
     // WASD stuff
     void ControlGravity()
     {
-        _isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
-        if(_isGrounded && _velocity.y < 0)
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+        if(isGrounded && velocity.y < 0)
         {
-            _velocity.y = -2f;
+            velocity.y = -2f;
         }
-        _velocity.y += gravity * Time.deltaTime;
-        _characterController.Move(_velocity * Time.deltaTime);
+        velocity.y += gravity * Time.deltaTime;
+        characterController.Move(velocity * Time.deltaTime);
     }
     void MovePlayer()
     {
-        if(_jumpInput && _isGrounded)
+        if(jumpInput && isGrounded)
         {
-            _velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
-        _characterController.Move(_moveDirection * movementSpeed * Time.deltaTime);
+        characterController.Move(moveDirection * movementSpeed * Time.deltaTime);
     }
     void GetInput()
     {
-        _jumpInput = Input.GetButton("Jump");
-        _xInput = Input.GetAxisRaw("Horizontal");
-        _yInput = Input.GetAxisRaw("Vertical");
-        _movementVector = transform.forward * _yInput + transform.right * _xInput;
-        _moveDirection = Vector3.SmoothDamp(_moveDirection, _movementVector.normalized, ref _moveVelocity, vel);
+        jumpInput = Input.GetButton("Jump");
+        xInput = Input.GetAxisRaw("Horizontal");
+        yInput = Input.GetAxisRaw("Vertical");
+        movementVector = transform.forward * yInput + transform.right * xInput;
+        moveDirection = Vector3.SmoothDamp(moveDirection, movementVector.normalized, ref moveVelocity, vel);
         
     }
    
     void Start()
     {
-        _characterController = GetComponent<CharacterController>();
+        characterController = GetComponent<CharacterController>();
     }
     private void Update()
     {

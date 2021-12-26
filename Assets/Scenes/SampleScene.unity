@@ -913,7 +913,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh20078
+  m_Name: pb_Mesh15916
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1792,7 +1792,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1906450423}
   m_LocalRotation: {x: -0, y: -0.19762412, z: -0, w: 0.9802779}
-  m_LocalPosition: {x: 79.517784, y: 5.45, z: -25.493242}
+  m_LocalPosition: {x: 82.8, y: 5.45, z: -24.11}
   m_LocalScale: {x: -7.786494, y: 3.7862349, z: 0.41928}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2894,6 +2894,16 @@ PrefabInstance:
       propertyPath: swaySmoothMultuplier
       value: 0.1
       objectReference: {fileID: 0}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: mainCamera
+      value: 
+      objectReference: {fileID: 1153950532}
+    - target: {fileID: 3313040303155210020, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d6655ba76da03c5428ddd63d85a9e702, type: 3}
     - target: {fileID: 3313040303653297488, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
       propertyPath: LightsModule.light

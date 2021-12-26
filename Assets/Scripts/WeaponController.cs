@@ -10,11 +10,17 @@ public class WeaponController : MonoBehaviour
     [SerializeField] float damage = 10f;
     [SerializeField] float range = 10f;
     [SerializeField] float fireRate = 15f;
-    public GameObject camera, bullethole, recoilCamera;
+
+    // cameras
+    public GameObject recoilCamera, mainCamera;
+    //
+    public GameObject bullethole, player;
     public Transform WeaponPosition, ADSPos, Muzzle;
     public ParticleSystem MuzzleFlash;
     private FirstPersonCamera firstPersonCamera;
+    private FirstPersonMovement firstPersonMovement;
     private float xInput, yInput, nextTimeToFire = 0f;
+    private float mXinput, mYinput;
     private Vector3 scopingVelocity;
     // vectors for sway support
     private Vector3 newWeaponRotation, newWeaponRotationVelocity, targetWeaponRotation, targetWeaponVelocity;
@@ -23,17 +29,18 @@ public class WeaponController : MonoBehaviour
     private RaycastHit hit;
     private AudioSource audioSource;
 
-
- 
     void Init()
     {
-        firstPersonCamera = camera.GetComponent<FirstPersonCamera>();
+        firstPersonMovement = player.GetComponent<FirstPersonMovement>();
+        firstPersonCamera = mainCamera.GetComponent<FirstPersonCamera>();
         audioSource = GetComponent<AudioSource>();
     }
     private void Sway()
     {
         xInput = firstPersonCamera.Xrotation;
         yInput = firstPersonCamera.Yrotation;
+        mXinput = firstPersonMovement.Xinpt;
+        mYinput = firstPersonMovement.Xinpt;
         targetWeaponRotation.y += swayMultiplier * (false ? -xInput : xInput) * Time.deltaTime;
         targetWeaponRotation.x += swayMultiplier * (false ?  yInput : -yInput) * Time.deltaTime;
         targetWeaponRotation.x = Mathf.Clamp(targetWeaponRotation.x, -10f, 10f);
@@ -48,14 +55,14 @@ public class WeaponController : MonoBehaviour
         if (Input.GetMouseButton(1))
         {
          transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
-            camera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(camera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
+            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
             
           
         }
         else if (!Input.GetMouseButton(1))
         {
             transform.localPosition = Vector3.SmoothDamp(transform.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
-            camera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(camera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
+            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
         }
 
 
