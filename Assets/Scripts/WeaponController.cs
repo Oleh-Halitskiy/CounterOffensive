@@ -4,12 +4,19 @@ using UnityEngine;
 
 public class WeaponController : MonoBehaviour
 {
+    [Header("Weapon Sway Controls")]
     [SerializeField] float swayMultiplier = 0f;
-    [SerializeField] float swaySmoothMultuplier = 0f;
+    [SerializeField] float swaySmoothMultiplier = 0f;
     [SerializeField] float swayReset = 0f;
+    [Header("Weapon Movement Sway Controls")]
+    [SerializeField] float movementSwayMultiplierX = 0f;
+    [SerializeField] float movementSwayMultiplierY = 0f;
+    [SerializeField] float movementSwaySmoothMultiplier = 0f;
+    [Header("Weapon Stats")]
     [SerializeField] float damage = 10f;
     [SerializeField] float range = 10f;
     [SerializeField] float fireRate = 15f;
+    [Header("")]
 
     // cameras
     public GameObject recoilCamera, mainCamera;
@@ -37,18 +44,26 @@ public class WeaponController : MonoBehaviour
     }
     private void Sway()
     {
+        // gathering input
         xInput = firstPersonCamera.Xrotation;
         yInput = firstPersonCamera.Yrotation;
         mXinput = firstPersonMovement.Xinpt;
-        mYinput = firstPersonMovement.Xinpt;
+        mYinput = firstPersonMovement.Yinpt;
+        // calculating look sway
         targetWeaponRotation.y += swayMultiplier * (false ? -xInput : xInput) * Time.deltaTime;
         targetWeaponRotation.x += swayMultiplier * (false ?  yInput : -yInput) * Time.deltaTime;
         targetWeaponRotation.x = Mathf.Clamp(targetWeaponRotation.x, -10f, 10f);
         targetWeaponRotation.y = Mathf.Clamp(targetWeaponRotation.y, -10f, 10f);
         targetWeaponRotation.z = targetWeaponRotation.y * 0.9f;
         targetWeaponRotation = Vector3.SmoothDamp(targetWeaponRotation, Vector3.zero, ref targetWeaponVelocity, swayReset);
-        newWeaponRotation = Vector3.SmoothDamp(newWeaponRotation, targetWeaponRotation, ref newWeaponRotationVelocity, swaySmoothMultuplier);
-        transform.localRotation = Quaternion.Euler(newWeaponRotation);
+        newWeaponRotation = Vector3.SmoothDamp(newWeaponRotation, targetWeaponRotation, ref newWeaponRotationVelocity, swaySmoothMultiplier);
+        // calculating movement sway
+        targetWeaponMovementRotation.z = movementSwayMultiplierX * (true ? -mXinput : mXinput);
+        targetWeaponMovementRotation.x = movementSwayMultiplierY * (false ? -mYinput : mYinput);
+        targetWeaponMovementRotation = Vector3.SmoothDamp(targetWeaponMovementRotation, Vector3.zero, ref targetWeaponMovementVelocity, movementSwaySmoothMultiplier);
+        newWeaponMovementRotation = Vector3.SmoothDamp(newWeaponMovementRotation, targetWeaponMovementRotation, ref newWeaponMovementRotationVelocity, movementSwaySmoothMultiplier);
+        // applying sway
+        transform.localRotation = Quaternion.Euler(newWeaponRotation + newWeaponMovementRotation);
     }
     private void AimDownSights()
     {

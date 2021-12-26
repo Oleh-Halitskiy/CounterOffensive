@@ -150,6 +150,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1953773782}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &268044384 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5113462623298099726, guid: c77795d354e88de478c87762e9822ca1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1953773782}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &532616339
 Mesh:
   m_ObjectHideFlags: 0
@@ -2899,6 +2905,41 @@ PrefabInstance:
       propertyPath: mainCamera
       value: 
       objectReference: {fileID: 1153950532}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: movementSwayMultiplier
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: movementSwaySmoothMultuplier
+      value: 0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 268044384}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: movementSwayMultiplierX
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: movementSwayMultiplierY
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: swaySmoothMultiplier
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: movementSwaySmoothMultiplier
+      value: 0.12
+      objectReference: {fileID: 0}
     - target: {fileID: 3313040303155210020, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
       propertyPath: m_audioClip
