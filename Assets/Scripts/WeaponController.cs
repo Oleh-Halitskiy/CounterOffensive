@@ -16,13 +16,16 @@ public class WeaponController : MonoBehaviour
     [SerializeField] float damage = 10f;
     [SerializeField] float range = 10f;
     [SerializeField] float fireRate = 15f;
-    [Header("")]
+    [Header("ADS and HIP positions")]
+    [SerializeField] private Vector3 ADSvector;
+    [SerializeField] private Vector3 HIPvector;
+
 
     // cameras
     public GameObject recoilCamera, mainCamera;
     //
     public GameObject bullethole, player;
-    public Transform WeaponPosition, ADSPos, Muzzle;
+    public Transform WeaponPosition, ADSPos, Muzzle, WeaponHolder;
     public ParticleSystem MuzzleFlash;
     private FirstPersonCamera firstPersonCamera;
     private FirstPersonMovement firstPersonMovement;
@@ -36,6 +39,8 @@ public class WeaponController : MonoBehaviour
     //
     private RaycastHit hit;
     private AudioSource audioSource;
+    public Vector3 AdsVector { get { return ADSvector; } }
+    public Vector3 HipVector { get { return HIPvector; } }
 
     void Init()
     {
@@ -71,15 +76,16 @@ public class WeaponController : MonoBehaviour
     {
         if (Input.GetMouseButton(1))
         {
-       //  transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
-            
+            recoilScript.aim = true;
           
         }
         else if (!Input.GetMouseButton(1))
         {
-          //  transform.localPosition = Vector3.SmoothDamp(transform.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
+            recoilScript.aim = false;
         }
 
 
@@ -110,8 +116,6 @@ public class WeaponController : MonoBehaviour
         newWeaponRotation = transform.localRotation.eulerAngles;
         Init();
     }
-
-    // Update is called once per frame
     void Update()
     {
         Shoot();

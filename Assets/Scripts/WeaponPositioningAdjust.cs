@@ -2,17 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class WeaponPositioningAdjust : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private Transform ADS;
+    [SerializeField] private Transform HIP;
+    public GameObject currentWeapon;
+    //private Vector3 ADSpos, HIPpos;
+    private void Start()
     {
-        
+        ADS.localPosition = currentWeapon.GetComponent<WeaponController>().AdsVector;
+        HIP.localPosition = currentWeapon.GetComponent<WeaponController>().HipVector;
     }
-
-    // Update is called once per frame
-    void Update()
+    private void ChangePos()
     {
-        
+    }
+    private void Update()
+    {
+        ChangePos();
     }
 }
