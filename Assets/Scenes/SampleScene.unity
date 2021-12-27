@@ -766,6 +766,25 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 3313040302302630624}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1254285023
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1254285022}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1a79f1b02ad1e4d4fa97a7457ecec128, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &1254285026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -788,8 +807,8 @@ MonoBehaviour:
   Recoil4: 50
   RecoilRotation: {x: -35, y: 30, z: 30}
   RecoilKickBack: {x: -1, y: -0.9, z: -0.6}
-  RecoilRotation_Aim: {x: 0, y: 0, z: 0}
-  RecoilKickBack_Aim: {x: 0, y: 0, z: 0}
+  RecoilRotation_Aim: {x: 5, y: 5, z: 5}
+  RecoilKickBack_Aim: {x: 0.1, y: -0.1, z: -0.5}
   CurrentRecoil1: {x: 0, y: 0, z: 0}
   CurrentRecoil2: {x: 0, y: 0, z: 0}
   CurrentRecoil3: {x: 0, y: 0, z: 0}
