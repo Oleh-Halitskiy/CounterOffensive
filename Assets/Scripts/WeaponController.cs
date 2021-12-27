@@ -26,6 +26,7 @@ public class WeaponController : MonoBehaviour
     public ParticleSystem MuzzleFlash;
     private FirstPersonCamera firstPersonCamera;
     private FirstPersonMovement firstPersonMovement;
+    private RecoilScript recoilScript;
     private float xInput, yInput, nextTimeToFire = 0f;
     private float mXinput, mYinput;
     private Vector3 scopingVelocity;
@@ -38,6 +39,7 @@ public class WeaponController : MonoBehaviour
 
     void Init()
     {
+        recoilScript = gameObject.GetComponent<RecoilScript>();
         firstPersonMovement = player.GetComponent<FirstPersonMovement>();
         firstPersonCamera = mainCamera.GetComponent<FirstPersonCamera>();
         audioSource = GetComponent<AudioSource>();
@@ -69,14 +71,14 @@ public class WeaponController : MonoBehaviour
     {
         if (Input.GetMouseButton(1))
         {
-         transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
+       //  transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
             
           
         }
         else if (!Input.GetMouseButton(1))
         {
-            transform.localPosition = Vector3.SmoothDamp(transform.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
+          //  transform.localPosition = Vector3.SmoothDamp(transform.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
         }
 
@@ -88,6 +90,7 @@ public class WeaponController : MonoBehaviour
         {
             if (nextTimeToFire <= 0)
             {
+                recoilScript.Fire();
                 nextTimeToFire = 1f;
                 MuzzleFlash.Play();
                 recoilCamera.GetComponent<CameraRecoil>().RecoilFire();
