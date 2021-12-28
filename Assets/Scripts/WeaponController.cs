@@ -27,6 +27,7 @@ public class WeaponController : MonoBehaviour
     public GameObject bullethole, player;
     public Transform WeaponPosition, ADSPos, Muzzle, WeaponHolder;
     public ParticleSystem MuzzleFlash;
+    private Animator weaponAnimator;
     private FirstPersonCamera firstPersonCamera;
     private FirstPersonMovement firstPersonMovement;
     private RecoilScript recoilScript;
@@ -44,6 +45,7 @@ public class WeaponController : MonoBehaviour
 
     void Init()
     {
+        weaponAnimator = gameObject.GetComponentInParent<Animator>();
         recoilScript = gameObject.GetComponent<RecoilScript>();
         firstPersonMovement = player.GetComponent<FirstPersonMovement>();
         firstPersonCamera = mainCamera.GetComponent<FirstPersonCamera>();
@@ -118,6 +120,11 @@ public class WeaponController : MonoBehaviour
     }
     void Update()
     {
+        weaponAnimator.speed = firstPersonMovement.AnimatorSpeed;
+        if (weaponAnimator.speed == 0 && !recoilScript.aim)
+        {
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 10f * Time.deltaTime);
+        }
         Shoot();
         Sway();
 

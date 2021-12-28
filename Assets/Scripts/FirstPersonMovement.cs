@@ -18,8 +18,10 @@ public class FirstPersonMovement : MonoBehaviour
     private Vector3 moveVelocity;
     private Vector3 moveDirection;
     private float vel = 0.15f;
+    private float animatorSpeed;
     public float Xinpt { get { return xInput; } }
     public float Yinpt { get { return yInput; } }
+    public float AnimatorSpeed { get { return animatorSpeed; } }
     // WASD stuff
     void ControlGravity()
     {
@@ -55,6 +57,11 @@ public class FirstPersonMovement : MonoBehaviour
     }
     private void Update()
     {
+        animatorSpeed = characterController.velocity.magnitude / movementSpeed;
+        if (animatorSpeed > 1)
+        {
+            animatorSpeed = 1;
+        }
       ControlGravity();
       GetInput();
       MovePlayer();
