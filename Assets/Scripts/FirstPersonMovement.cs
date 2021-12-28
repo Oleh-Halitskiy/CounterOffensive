@@ -19,6 +19,8 @@ public class FirstPersonMovement : MonoBehaviour
     private Vector3 moveDirection;
     private float vel = 0.15f;
     private float animatorSpeed;
+    private bool isWalking;
+    public bool IsWalking { get { return isWalking; } }
     public float Xinpt { get { return xInput; } }
     public float Yinpt { get { return yInput; } }
     public float AnimatorSpeed { get { return animatorSpeed; } }
@@ -46,6 +48,14 @@ public class FirstPersonMovement : MonoBehaviour
         jumpInput = Input.GetButton("Jump");
         xInput = Input.GetAxisRaw("Horizontal");
         yInput = Input.GetAxisRaw("Vertical");
+        if (xInput == 0 && yInput == 0)
+        {
+            isWalking = false;
+        }
+        else
+        {
+            isWalking = true; 
+        }
         movementVector = transform.forward * yInput + transform.right * xInput;
         moveDirection = Vector3.SmoothDamp(moveDirection, movementVector.normalized, ref moveVelocity, vel);
         

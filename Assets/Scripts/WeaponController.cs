@@ -120,11 +120,8 @@ public class WeaponController : MonoBehaviour
     }
     void Update()
     {
-        weaponAnimator.speed = firstPersonMovement.AnimatorSpeed;
-        if (weaponAnimator.speed == 0 && !recoilScript.aim)
-        {
-            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 10f * Time.deltaTime);
-        }
+        weaponAnimator.SetFloat("WalkingSpeed", firstPersonMovement.AnimatorSpeed);
+        weaponAnimator.SetBool("IsWalking", firstPersonMovement.IsWalking);
         Shoot();
         Sway();
 
