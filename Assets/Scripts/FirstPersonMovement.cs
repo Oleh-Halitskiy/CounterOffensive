@@ -30,10 +30,18 @@ public class FirstPersonMovement : MonoBehaviour
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
         if(isGrounded && velocity.y < 0)
         {
+            characterController.stepOffset = 0.35f;
             velocity.y = -2f;
         }
+        else
+        {
+            characterController.stepOffset = 0;
+        }
         velocity.y += gravity * Time.deltaTime;
+        
         characterController.Move(velocity * Time.deltaTime);
+
+      
     }
     void MovePlayer()
     {
@@ -60,14 +68,18 @@ public class FirstPersonMovement : MonoBehaviour
         moveDirection = Vector3.SmoothDamp(moveDirection, movementVector.normalized, ref moveVelocity, vel);
         
     }
-   
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireSphere(groundCheck.position, groundDistance);
+    }
+
     void Start()
     {
         characterController = GetComponent<CharacterController>();
     }
     private void Update()
     {
-        animatorSpeed = characterController.velocity.magnitude / movementSpeed;
+        animatorSpeed = characterController.velocity.magnitude / movementSpeed * 2;
         if (animatorSpeed > 1)
         {
             animatorSpeed = 1;
