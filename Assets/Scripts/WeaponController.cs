@@ -22,7 +22,7 @@ public class WeaponController : MonoBehaviour
 
 
     // cameras
-    public GameObject recoilCamera, mainCamera;
+    public GameObject recoilCamera, mainCamera, weaponCamera;
     //
     public GameObject bullethole, player;
     public Transform WeaponPosition, ADSPos, Muzzle, WeaponHolder;
@@ -80,6 +80,7 @@ public class WeaponController : MonoBehaviour
         {
             WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
+            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
             recoilScript.aim = true;
           
         }
@@ -87,6 +88,7 @@ public class WeaponController : MonoBehaviour
         {
             WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
+            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
             recoilScript.aim = false;
         }
 
