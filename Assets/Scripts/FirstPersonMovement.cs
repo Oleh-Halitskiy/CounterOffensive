@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class FirstPersonMovement : MonoBehaviour
 {
-    [SerializeField] private float movementSpeed = 6f;
+    [Header("Player controls")]
+    [SerializeField] private float movementStrafeSpeed = 6f;
+    [SerializeField] private float movementForwardSpeed = 6f;
+    [SerializeField] private float movementBackwardSpeed = 6f;
     [SerializeField] private float jumpHeight = 1;
     [SerializeField] private float gravity = -9.18f;
     [SerializeField] private float groundDistance = 0.4f;
@@ -43,14 +46,26 @@ public class FirstPersonMovement : MonoBehaviour
 
       
     }
+    void CalculateMovement()
+    {
+        var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
+        var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
+        var newMovementSpeed = new Vector3(horizontalSpeed, 0, verticalSpeed);
+        newMovementSpeed = transform.TransformDirection(newMovementSpeed);
+        characterController.Move(newMovementSpeed);
+    }  
+    /*
     void MovePlayer()
     {
         if(jumpInput && isGrounded)
         {
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
-        characterController.Move(moveDirection * movementSpeed * Time.deltaTime);
+        moveDirection.x *= movementStrafeSpeed * Time.deltaTime;
+        moveDirection.z *= movementForwardSpeed * Time.deltaTime;
+        characterController.Move(moveDirection * Time.deltaTime);
     }
+    */
     void GetInput()
     {
         jumpInput = Input.GetButton("Jump");
@@ -64,7 +79,7 @@ public class FirstPersonMovement : MonoBehaviour
         {
             isWalking = true; 
         }
-        movementVector = transform.forward * yInput + transform.right * xInput;
+        movementVector = transform.forward * yInput  + transform.right * xInput;
         moveDirection = Vector3.SmoothDamp(moveDirection, movementVector.normalized, ref moveVelocity, vel);
         
     }
@@ -79,14 +94,15 @@ public class FirstPersonMovement : MonoBehaviour
     }
     private void Update()
     {
-        animatorSpeed = characterController.velocity.magnitude / movementSpeed * 2;
+        animatorSpeed = characterController.velocity.magnitude / movementStrafeSpeed * 6;
         if (animatorSpeed > 1)
         {
             animatorSpeed = 1;
         }
       ControlGravity();
+        CalculateMovement();
       GetInput();
-      MovePlayer();
+     // MovePlayer();
 
     }
 
