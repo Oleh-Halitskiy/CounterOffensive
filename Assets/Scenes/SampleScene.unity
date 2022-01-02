@@ -8964,6 +8964,11 @@ PrefabInstance:
       propertyPath: movementBackwardSpeed
       value: 2.2
       objectReference: {fileID: 0}
+    - target: {fileID: 5113462623298099725, guid: c77795d354e88de478c87762e9822ca1,
+        type: 3}
+      propertyPath: movementSmoothing
+      value: 0.21
+      objectReference: {fileID: 0}
     - target: {fileID: 5113462623298099726, guid: c77795d354e88de478c87762e9822ca1,
         type: 3}
       propertyPath: m_Name

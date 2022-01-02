@@ -8,6 +8,7 @@ public class FirstPersonMovement : MonoBehaviour
     [SerializeField] private float movementStrafeSpeed = 6f;
     [SerializeField] private float movementForwardSpeed = 6f;
     [SerializeField] private float movementBackwardSpeed = 6f;
+    [SerializeField] private float movementSmoothing = 0.5f;
     [SerializeField] private float jumpHeight = 1;
     [SerializeField] private float gravity = -9.18f;
     [SerializeField] private float groundDistance = 0.4f;
@@ -18,8 +19,8 @@ public class FirstPersonMovement : MonoBehaviour
     private Vector3 velocity;
     private CharacterController characterController;
     private bool isGrounded, jumpInput;
-    private Vector3 moveVelocity;
-    private Vector3 moveDirection;
+    private Vector3 newMovementSpeedVelocity;
+    private Vector3 newMovementSpeed;
     private float vel = 0.15f;
     private float animatorSpeed;
     private bool isWalking;
@@ -48,24 +49,16 @@ public class FirstPersonMovement : MonoBehaviour
     }
     void CalculateMovement()
     {
-        var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
-        var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
-        var newMovementSpeed = new Vector3(horizontalSpeed, 0, verticalSpeed);
-        newMovementSpeed = transform.TransformDirection(newMovementSpeed);
-        characterController.Move(newMovementSpeed);
-    }  
-    /*
-    void MovePlayer()
-    {
-        if(jumpInput && isGrounded)
+        if (jumpInput && isGrounded)
         {
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
-        moveDirection.x *= movementStrafeSpeed * Time.deltaTime;
-        moveDirection.z *= movementForwardSpeed * Time.deltaTime;
-        characterController.Move(moveDirection * Time.deltaTime);
-    }
-    */
+        var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
+        var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
+        newMovementSpeed = Vector3.SmoothDamp(newMovementSpeed, new Vector3(horizontalSpeed, 0, verticalSpeed), ref newMovementSpeedVelocity, movementSmoothing);
+        var movementSpeed = transform.TransformDirection(newMovementSpeed);
+        characterController.Move(movementSpeed);
+    }  
     void GetInput()
     {
         jumpInput = Input.GetButton("Jump");
@@ -79,9 +72,6 @@ public class FirstPersonMovement : MonoBehaviour
         {
             isWalking = true; 
         }
-        movementVector = transform.forward * yInput  + transform.right * xInput;
-        moveDirection = Vector3.SmoothDamp(moveDirection, movementVector.normalized, ref moveVelocity, vel);
-        
     }
     private void OnDrawGizmos()
     {
