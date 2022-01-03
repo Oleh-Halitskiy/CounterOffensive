@@ -15,13 +15,12 @@ public class FirstPersonMovement : MonoBehaviour
     public LayerMask groundMask;
     public Transform groundCheck;
     private float xInput, yInput;
-    private Vector3 movementVector;
+    private Vector3 movementVector, moveDirection;
     private Vector3 velocity;
     private CharacterController characterController;
     private bool isGrounded, jumpInput;
     private Vector3 newMovementSpeedVelocity;
     private Vector3 newMovementSpeed;
-    private float vel = 0.15f;
     private float animatorSpeed;
     private bool isWalking;
     public bool IsWalking { get { return isWalking; } }
@@ -55,9 +54,11 @@ public class FirstPersonMovement : MonoBehaviour
         }
         var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
         var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
-        newMovementSpeed = Vector3.SmoothDamp(newMovementSpeed, new Vector3(horizontalSpeed, 0, verticalSpeed), ref newMovementSpeedVelocity, movementSmoothing);
+        movementVector.z = verticalSpeed;
+        movementVector.x = horizontalSpeed;
+        newMovementSpeed = Vector3.SmoothDamp(newMovementSpeed, movementVector, ref newMovementSpeedVelocity, movementSmoothing);
         var movementSpeed = transform.TransformDirection(newMovementSpeed);
-        characterController.Move(movementSpeed);
+         characterController.Move(movementSpeed);
     }  
     void GetInput()
     {
@@ -84,7 +85,8 @@ public class FirstPersonMovement : MonoBehaviour
     }
     private void Update()
     {
-        animatorSpeed = characterController.velocity.magnitude / movementStrafeSpeed * 6;
+        animatorSpeed = characterController.velocity.magnitude / (movementStrafeSpeed * 1.5f);
+        Debug.Log(animatorSpeed);
         if (animatorSpeed > 1)
         {
             animatorSpeed = 1;
