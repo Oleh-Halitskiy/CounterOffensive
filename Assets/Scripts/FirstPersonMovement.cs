@@ -58,7 +58,7 @@ public class FirstPersonMovement : MonoBehaviour
         movementVector.x = horizontalSpeed;
         newMovementSpeed = Vector3.SmoothDamp(newMovementSpeed, movementVector, ref newMovementSpeedVelocity, movementSmoothing);
         var movementSpeed = transform.TransformDirection(newMovementSpeed);
-         characterController.Move(movementSpeed);
+        characterController.Move(movementSpeed);
     }  
     void GetInput()
     {

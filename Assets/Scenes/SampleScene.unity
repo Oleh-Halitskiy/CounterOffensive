@@ -5699,36 +5699,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3313040302302630624}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1254285026
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1254285022}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 900996424a479a5409ee2f47374cb8b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  RecoilPositionTranform: {fileID: 481746505}
-  RecoilRotationTranform: {fileID: 1167827925}
-  PositionDampTime: 2
-  RotationDampTime: 2
-  Recoil1: 27
-  Recoil2: 50
-  Recoil3: 35
-  Recoil4: 50
-  RecoilRotation: {x: -35, y: 30, z: 30}
-  RecoilKickBack: {x: -1, y: -0.9, z: -0.6}
-  RecoilRotation_Aim: {x: 5, y: 5, z: 5}
-  RecoilKickBack_Aim: {x: 0.1, y: -0.1, z: -0.5}
-  CurrentRecoil1: {x: 0, y: 0, z: 0}
-  CurrentRecoil2: {x: 0, y: 0, z: 0}
-  CurrentRecoil3: {x: 0, y: 0, z: 0}
-  CurrentRecoil4: {x: 0, y: 0, z: 0}
-  RotationOutput: {x: 0, y: 0, z: 0}
-  aim: 0
 --- !u!1 &1278736326 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1278736326, guid: c77795d354e88de478c87762e9822ca1,
@@ -9560,20 +9530,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1632504458}
     m_Modifications:
+    - target: {fileID: 1254285026, guid: 0530d230e7f1b7d47addfe719d97f9e1, type: 3}
+      propertyPath: RecoilPositionTranform
+      value: 
+      objectReference: {fileID: 481746505}
+    - target: {fileID: 1254285026, guid: 0530d230e7f1b7d47addfe719d97f9e1, type: 3}
+      propertyPath: RecoilRotationTranform
+      value: 
+      objectReference: {fileID: 1167827925}
     - target: {fileID: 3313040303155210017, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
       propertyPath: m_Name
       value: AK47Pivot
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210017, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210017, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 3313040303155210018, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
@@ -9632,14 +9600,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: camera
+      propertyPath: recoilCamera
+      value: 
+      objectReference: {fileID: 22524577}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: mainCamera
       value: 
       objectReference: {fileID: 1153950532}
     - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: recoilCamera
+      propertyPath: weaponCamera
       value: 
-      objectReference: {fileID: 22524577}
+      objectReference: {fileID: 1278736326}
+    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 268044384}
     - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
       propertyPath: WeaponPosition
@@ -9652,133 +9630,19 @@ PrefabInstance:
       objectReference: {fileID: 1411542930}
     - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: swayReset
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: smoothMultuplier
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: swayMultiplier
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: swaySmoothMultuplier
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: mainCamera
-      value: 
-      objectReference: {fileID: 1153950532}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: movementSwayMultiplier
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: movementSwaySmoothMultuplier
-      value: 0.12
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: player
-      value: 
-      objectReference: {fileID: 268044384}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: movementSwayMultiplierX
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: movementSwayMultiplierY
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: swaySmoothMultiplier
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: movementSwaySmoothMultiplier
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: fireRate
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: ADSvector.x
-      value: 0.0015
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: ADSvector.y
-      value: -0.057
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: ADSvector.z
-      value: 0.178
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: HIPvector.x
-      value: 0.1882
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: HIPvector.y
-      value: -0.127
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: HIPvector.z
-      value: 0.178
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
       propertyPath: WeaponHolder
       value: 
       objectReference: {fileID: 1457687421}
     - target: {fileID: 3313040303155210019, guid: 0530d230e7f1b7d47addfe719d97f9e1,
         type: 3}
-      propertyPath: weaponCamera
+      propertyPath: MuzzleFlash
       value: 
-      objectReference: {fileID: 1278736326}
-    - target: {fileID: 3313040303155210020, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 8300000, guid: d6655ba76da03c5428ddd63d85a9e702, type: 3}
-    - target: {fileID: 3313040303167232596, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303386819438, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303653297485, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 3313040303653297488, guid: 0530d230e7f1b7d47addfe719d97f9e1,
-        type: 3}
-      propertyPath: LightsModule.light
-      value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 3313040302302630625}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0530d230e7f1b7d47addfe719d97f9e1, type: 3}
+--- !u!198 &3313040302302630625 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 123456785019842795, guid: 0530d230e7f1b7d47addfe719d97f9e1,
+    type: 3}
+  m_PrefabInstance: {fileID: 3313040302302630624}
+  m_PrefabAsset: {fileID: 0}
