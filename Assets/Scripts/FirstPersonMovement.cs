@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class FirstPersonMovement : MonoBehaviour
 {
@@ -10,19 +8,35 @@ public class FirstPersonMovement : MonoBehaviour
     [SerializeField] private float movementBackwardSpeed = 6f;
     [SerializeField] private float movementSmoothing = 0.5f;
     [SerializeField] private float jumpHeight = 1;
+    [Header("Gravity Control")]
     [SerializeField] private float gravity = -9.18f;
     [SerializeField] private float groundDistance = 0.4f;
+    [Header("Player Stances")]
+    [SerializeField] private float cameraStandHeight;
+    [SerializeField] private float cameraCrouchHeight;
+    [SerializeField] private float cameraProneHeight;
+    [SerializeField] private float StancePositionSmoothing;
+    [SerializeField] private playerStances PlayerStances;
+
     public LayerMask groundMask;
     public Transform groundCheck;
+    public Transform cameraHolder;
     private float xInput, yInput;
-    private Vector3 movementVector, moveDirection;
+    private Vector3 movementVector;
     private Vector3 velocity;
     private CharacterController characterController;
     private bool isGrounded, jumpInput;
     private Vector3 newMovementSpeedVelocity;
     private Vector3 newMovementSpeed;
     private float animatorSpeed;
+    private float cameraHeight, cameraSmoothingVelocity;
     private bool isWalking;
+    private enum playerStances
+    {
+        Stand,
+        Crouch,
+        Prone
+    }
     public bool IsWalking { get { return isWalking; } }
     public float Xinpt { get { return xInput; } }
     public float Yinpt { get { return yInput; } }
@@ -71,14 +85,25 @@ public class FirstPersonMovement : MonoBehaviour
         }
         else
         {
+            
             isWalking = true; 
         }
     }
-    private void OnDrawGizmos()
+    void CalculateCameraHeight()
     {
-        Gizmos.DrawWireSphere(groundCheck.position, groundDistance);
-    }
+        var stanceHeight = cameraStandHeight;
+        if(PlayerStances == playerStances.Crouch)
+        {
+            stanceHeight = cameraCrouchHeight;
+        }
+        else if(PlayerStances == playerStances.Prone)
+        {
+            stanceHeight = cameraProneHeight;
+        }
+        cameraHeight = Mathf.SmoothDamp(cameraHolder.localPosition.y, stanceHeight, ref cameraSmoothingVelocity, StancePositionSmoothing);
+        cameraHolder.localPosition = new Vector3(cameraHolder.localPosition.x, cameraHeight, cameraHolder.localPosition.z);
 
+    }
     void Start()
     {
         characterController = GetComponent<CharacterController>();
@@ -86,16 +111,15 @@ public class FirstPersonMovement : MonoBehaviour
     private void Update()
     {
         animatorSpeed = characterController.velocity.magnitude / (movementStrafeSpeed * 1.5f);
-        Debug.Log(animatorSpeed);
         if (animatorSpeed > 1)
         {
             animatorSpeed = 1;
         }
-      ControlGravity();
+        ControlGravity();
         CalculateMovement();
-      GetInput();
-     // MovePlayer();
-
+        GetInput();
+        CalculateCameraHeight();
+        
     }
 
 }
