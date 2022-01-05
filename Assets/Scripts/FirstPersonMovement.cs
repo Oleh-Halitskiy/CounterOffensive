@@ -8,13 +8,24 @@ public class FirstPersonMovement : MonoBehaviour
     [SerializeField] private float movementBackwardSpeed = 6f;
     [SerializeField] private float movementSmoothing = 0.5f;
     [SerializeField] private float jumpHeight = 1;
+    [Header("Crouch controls")]
+    [SerializeField] private float CrouchStrafeSpeed;
+    [SerializeField] private float CrouchForwardSpeed;
+    [SerializeField] private float CrouchBackwardSpeed;
+    [Header("Prone controls")]
+    [SerializeField] private float ProneStrafeSpeed;
+    [SerializeField] private float ProneForwardSpeed;
+    [SerializeField] private float ProneBackwardSpeed;
     [Header("Gravity Control")]
     [SerializeField] private float gravity = -9.18f;
     [SerializeField] private float groundDistance = 0.4f;
     [Header("Player Stances")]
     [SerializeField] private float cameraStandHeight;
+    [SerializeField] private CapsuleCollider StandCollider;
     [SerializeField] private float cameraCrouchHeight;
+    [SerializeField] private CapsuleCollider CrouchCollider;
     [SerializeField] private float cameraProneHeight;
+    [SerializeField] private CapsuleCollider ProneCollider;
     [SerializeField] private float StancePositionSmoothing;
     [SerializeField] private playerStances PlayerStances;
 
@@ -23,14 +34,19 @@ public class FirstPersonMovement : MonoBehaviour
     public Transform cameraHolder;
     private float xInput, yInput;
     private Vector3 movementVector;
-    private Vector3 velocity;
+    private Vector3 gravityVelocity;
     private CharacterController characterController;
     private bool isGrounded, jumpInput;
     private Vector3 newMovementSpeedVelocity;
+    private Vector3 capsuleSmoothingVelocity;
     private Vector3 newMovementSpeed;
+    private float capsuleFloatSmoothingVelocity;
     private float animatorSpeed;
     private float cameraHeight, cameraSmoothingVelocity;
-    private bool isWalking;
+    private bool isWalking, canJump;
+    // default values
+    private float defaultForwardSpeed, defaultStrafeSpeed, defaultBackwardSpeed;
+    //
     private enum playerStances
     {
         Stand,
@@ -45,26 +61,35 @@ public class FirstPersonMovement : MonoBehaviour
     void ControlGravity()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
-        if(isGrounded && velocity.y < 0)
+        if(isGrounded && gravityVelocity.y < 0)
         {
             characterController.stepOffset = 0.35f;
-            velocity.y = -2f;
+            gravityVelocity.y = -2f;
         }
         else
         {
             characterController.stepOffset = 0;
         }
-        velocity.y += gravity * Time.deltaTime;
+        gravityVelocity.y += gravity * Time.deltaTime;
         
-        characterController.Move(velocity * Time.deltaTime);
+        characterController.Move(gravityVelocity * Time.deltaTime);
 
       
     }
     void CalculateMovement()
     {
-        if (jumpInput && isGrounded)
+       
+        if (Input.GetKeyDown(KeyCode.C))
         {
-            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            PlayerStances = playerStances.Crouch;
+        }
+        else if (Input.GetKeyDown(KeyCode.Z))
+        {
+            PlayerStances = playerStances.Prone;
+        }
+        if (jumpInput && isGrounded && canJump)
+        {
+            gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
         var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
         var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
@@ -89,24 +114,48 @@ public class FirstPersonMovement : MonoBehaviour
             isWalking = true; 
         }
     }
-    void CalculateCameraHeight()
+    void CalculateStances()
     {
-        var stanceHeight = cameraStandHeight;
+            movementForwardSpeed = defaultForwardSpeed;
+            movementStrafeSpeed = defaultStrafeSpeed;
+            movementBackwardSpeed = defaultBackwardSpeed;
+            canJump = true;
+            var stanceHeight = cameraStandHeight;
+            var capsuleHeight = StandCollider.height;
+            var capsuleCenter = StandCollider.center;
+    
         if(PlayerStances == playerStances.Crouch)
         {
+            movementForwardSpeed = CrouchForwardSpeed;
+            movementStrafeSpeed = CrouchStrafeSpeed;
+            movementBackwardSpeed = CrouchBackwardSpeed;
+            canJump = false;
+            capsuleCenter = CrouchCollider.center;
+            capsuleHeight = CrouchCollider.height;
             stanceHeight = cameraCrouchHeight;
         }
         else if(PlayerStances == playerStances.Prone)
         {
+            movementForwardSpeed = ProneForwardSpeed;
+            movementStrafeSpeed = ProneStrafeSpeed;
+            movementBackwardSpeed = ProneBackwardSpeed;
+            canJump = false;
+            capsuleCenter = ProneCollider.center;
+            capsuleHeight = ProneCollider.height;
             stanceHeight = cameraProneHeight;
         }
         cameraHeight = Mathf.SmoothDamp(cameraHolder.localPosition.y, stanceHeight, ref cameraSmoothingVelocity, StancePositionSmoothing);
         cameraHolder.localPosition = new Vector3(cameraHolder.localPosition.x, cameraHeight, cameraHolder.localPosition.z);
+        characterController.height = Mathf.SmoothDamp(characterController.height, capsuleHeight, ref capsuleFloatSmoothingVelocity, StancePositionSmoothing);
+        characterController.center = Vector3.SmoothDamp(characterController.center, capsuleCenter, ref capsuleSmoothingVelocity, StancePositionSmoothing);
 
     }
     void Start()
     {
         characterController = GetComponent<CharacterController>();
+        defaultForwardSpeed = movementForwardSpeed;
+        defaultStrafeSpeed = movementStrafeSpeed;
+        defaultBackwardSpeed = movementBackwardSpeed;
     }
     private void Update()
     {
@@ -118,7 +167,7 @@ public class FirstPersonMovement : MonoBehaviour
         ControlGravity();
         CalculateMovement();
         GetInput();
-        CalculateCameraHeight();
+        CalculateStances();
         
     }
 
