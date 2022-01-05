@@ -81,12 +81,23 @@ public class FirstPersonMovement : MonoBehaviour
        
         if (Input.GetKeyDown(KeyCode.C))
         {
+            if(PlayerStances == playerStances.Crouch)
+            {
+                PlayerStances = playerStances.Stand;
+                return;
+            }
             PlayerStances = playerStances.Crouch;
         }
         else if (Input.GetKeyDown(KeyCode.Z))
         {
+            if(PlayerStances == playerStances.Prone)
+            {
+                PlayerStances = playerStances.Stand;
+                return;
+            }
             PlayerStances = playerStances.Prone;
         }
+ 
         if (jumpInput && isGrounded && canJump)
         {
             gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
