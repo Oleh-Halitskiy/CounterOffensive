@@ -107,8 +107,13 @@ public class WeaponController : MonoBehaviour
                 audioSource.PlayOneShot(audioSource.clip);
                 if (Physics.Raycast(Muzzle.position, Muzzle.forward, out hit, range))
                 {
-
+                    EnemyController enemy = hit.transform.GetComponent<EnemyController>();
+                    if(enemy != null)
+                    {
+                        enemy.TakeDamage(30);
+                    }
                     GameObject hithole = Instantiate(bullethole, hit.point, Quaternion.LookRotation(hit.normal));
+                    hithole.transform.SetParent(hit.transform);
                     Destroy(hithole, 2f);
                 }
             }
