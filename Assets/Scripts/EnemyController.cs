@@ -7,13 +7,13 @@ public class EnemyController : MonoBehaviour
     private CharacterController characterController;
     private Vector3 moveVector;
     private float healthPoints;
-    public bool isDead;
     // Start is called before the first frame update
     void Start()
     {
+        Destroy(gameObject, 15f);
         healthPoints = 100;
         characterController = GetComponent<CharacterController>();
-        moveVector = new Vector3(Random.Range(1, 5), 0, Random.Range(1, 5));
+        moveVector = new Vector3(Random.Range(-5, 5), 0, Random.Range(-5, 5));
     }
     public void TakeDamage(float damage)
     {
@@ -21,7 +21,6 @@ public class EnemyController : MonoBehaviour
     }
     private void Die()
     {
-        isDead = true;
         Destroy(gameObject);
     }
     // Update is called once per frame

@@ -14,11 +14,12 @@ public class EnemySpawner : MonoBehaviour
         enemies.RemoveAll(s => s == null);
         if (enemies.Count < maxAmountOfEnemies)
         {
-            spawnVector.x += Random.Range(1, 2);
-            spawnVector.z += Random.Range(1, 2);
+            spawnVector.x += Random.Range(-10, 10);
+            spawnVector.z += Random.Range(-10, 10);
             GameObject enemySpawned = Instantiate(enemy, spawnVector, Quaternion.identity);
             enemies.Add(enemySpawned);
         }
+        spawnVector = transform.position;
     }
 
     void Start()
@@ -39,6 +40,6 @@ public class EnemySpawner : MonoBehaviour
             timer.Run();
         }
 
-        Debug.Log(spawnVector);
+        
     }
 }

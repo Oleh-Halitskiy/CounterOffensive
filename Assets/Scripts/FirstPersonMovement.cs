@@ -40,6 +40,7 @@ public class FirstPersonMovement : MonoBehaviour
     private Vector3 newMovementSpeedVelocity;
     private Vector3 capsuleSmoothingVelocity;
     private Vector3 newMovementSpeed;
+    private Vector3 moveDirection;
     private float capsuleFloatSmoothingVelocity;
     private float animatorSpeed;
     private float cameraHeight, cameraSmoothingVelocity;
@@ -78,26 +79,6 @@ public class FirstPersonMovement : MonoBehaviour
     }
     void CalculateMovement()
     {
-       
-        if (Input.GetKeyDown(KeyCode.C))
-        {
-            if(PlayerStances == playerStances.Crouch)
-            {
-                PlayerStances = playerStances.Stand;
-                return;
-            }
-            PlayerStances = playerStances.Crouch;
-        }
-        else if (Input.GetKeyDown(KeyCode.Z))
-        {
-            if(PlayerStances == playerStances.Prone)
-            {
-                PlayerStances = playerStances.Stand;
-                return;
-            }
-            PlayerStances = playerStances.Prone;
-        }
- 
         if (jumpInput && isGrounded && canJump)
         {
             gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
@@ -110,8 +91,38 @@ public class FirstPersonMovement : MonoBehaviour
         var movementSpeed = transform.TransformDirection(newMovementSpeed);
         characterController.Move(movementSpeed);
     }  
+    void CalculateNewMovement()
+    {
+        if (jumpInput && isGrounded && canJump)
+        {
+            gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+        }
+        var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
+        var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
+        movementVector = transform.forward * verticalSpeed + transform.right * horizontalSpeed;
+        moveDirection = Vector3.SmoothDamp(moveDirection, movementVector, ref newMovementSpeedVelocity, movementSmoothing);
+        characterController.Move(moveDirection);
+    }
     void GetInput()
     {
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            if (PlayerStances == playerStances.Crouch)
+            {
+                PlayerStances = playerStances.Stand;
+                return;
+            }
+            PlayerStances = playerStances.Crouch;
+        }
+        else if (Input.GetKeyDown(KeyCode.Z))
+        {
+            if (PlayerStances == playerStances.Prone)
+            {
+                PlayerStances = playerStances.Stand;
+                return;
+            }
+            PlayerStances = playerStances.Prone;
+        }
         jumpInput = Input.GetButton("Jump");
         xInput = Input.GetAxisRaw("Horizontal");
         yInput = Input.GetAxisRaw("Vertical");
@@ -176,7 +187,8 @@ public class FirstPersonMovement : MonoBehaviour
             animatorSpeed = 1;
         }
         ControlGravity();
-        CalculateMovement();
+        // CalculateMovement();
+        CalculateNewMovement();
         GetInput();
         CalculateStances();
         
