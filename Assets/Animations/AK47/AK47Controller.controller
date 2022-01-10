@@ -210,7 +210,7 @@ AnimatorStateTransition:
   m_ExitTime: 0.0000000023857527
   m_HasExitTime: 0
   m_HasFixedDuration: 1
-  m_InterruptionSource: 0
+  m_InterruptionSource: 2
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
 --- !u!1101 &6790346791046153951

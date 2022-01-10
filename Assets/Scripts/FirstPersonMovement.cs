@@ -28,6 +28,10 @@ public class FirstPersonMovement : MonoBehaviour
     [SerializeField] private CapsuleCollider ProneCollider;
     [SerializeField] private float StancePositionSmoothing;
     [SerializeField] private PlayerStances playerStances;
+    [Header("Player footsteps")]
+    [SerializeField] private float WalkingStepsRate;
+    [SerializeField] private float SprintingStepsRate;
+    [SerializeField] private float CrouchingStepsRate;
 
     public LayerMask groundMask;
     public Transform groundCheck;
@@ -44,7 +48,9 @@ public class FirstPersonMovement : MonoBehaviour
     private float capsuleFloatSmoothingVelocity;
     private float animatorSpeed;
     private float cameraHeight, cameraSmoothingVelocity;
-    private bool isWalking, canJump, isSprinting;
+    private bool isWalking, canJump, isSprinting, isCrouching;
+    private AudioSource audioSource;
+    private float nextTimeToStep;
     // default values
     private float defaultForwardSpeed, defaultStrafeSpeed, defaultBackwardSpeed;
     //
@@ -96,6 +102,7 @@ public class FirstPersonMovement : MonoBehaviour
         {
             characterController.Move(moveDirection);
         }
+        playFootStepts();
 
     }
     void GetInput()
@@ -104,7 +111,7 @@ public class FirstPersonMovement : MonoBehaviour
         jumpInput = Input.GetButton("Jump");
         xInput = Input.GetAxisRaw("Horizontal");
         yInput = Input.GetAxisRaw("Vertical");
-        if (xInput == 0 && yInput == 0)
+        if (xInput == 0 && yInput == 0 || isSprinting)
         {
             isWalking = false;
         }
@@ -143,6 +150,7 @@ public class FirstPersonMovement : MonoBehaviour
     }
     void CalculateStances()
     {
+            isCrouching = false;
             movementForwardSpeed = defaultForwardSpeed;
             movementStrafeSpeed = defaultStrafeSpeed;
             movementBackwardSpeed = defaultBackwardSpeed;
@@ -153,6 +161,7 @@ public class FirstPersonMovement : MonoBehaviour
     
         if(playerStances == PlayerStances.Crouch)
         {
+            isCrouching = true;
             movementForwardSpeed = CrouchForwardSpeed;
             movementStrafeSpeed = CrouchStrafeSpeed;
             movementBackwardSpeed = CrouchBackwardSpeed;
@@ -163,6 +172,7 @@ public class FirstPersonMovement : MonoBehaviour
         }
         else if(playerStances == PlayerStances.Prone)
         {
+            isCrouching = false;
             movementForwardSpeed = ProneForwardSpeed;
             movementStrafeSpeed = ProneStrafeSpeed;
             movementBackwardSpeed = ProneBackwardSpeed;
@@ -177,8 +187,34 @@ public class FirstPersonMovement : MonoBehaviour
         characterController.center = Vector3.SmoothDamp(characterController.center, capsuleCenter, ref capsuleSmoothingVelocity, StancePositionSmoothing);
 
     }
+    private void playFootStepts()
+    {
+        if (isGrounded == true && characterController.velocity.magnitude > 1f)
+        {
+                if(nextTimeToStep <= 0)
+            {
+                nextTimeToStep = 1;
+                audioSource.volume = Random.Range(0.8f, 1);
+                audioSource.pitch = Random.Range(0.8f, 1.1f);
+                audioSource.PlayOneShot(audioSource.clip);
+            }
+        }
+        if (isWalking && !isCrouching)
+        {
+            nextTimeToStep -= Time.deltaTime * WalkingStepsRate;
+        }
+        else if(isSprinting)
+        {
+            nextTimeToStep -= Time.deltaTime * SprintingStepsRate;
+        }
+        else if (isCrouching)
+        {
+            nextTimeToStep -= Time.deltaTime * CrouchingStepsRate;
+        }
+    }
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         characterController = GetComponent<CharacterController>();
         defaultForwardSpeed = movementForwardSpeed;
         defaultStrafeSpeed = movementStrafeSpeed;

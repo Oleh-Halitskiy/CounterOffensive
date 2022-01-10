@@ -134,7 +134,6 @@ public class WeaponController : MonoBehaviour
         weaponAnimator.SetBool("IsSprinting", firstPersonMovement.IsSprinting);
         Shoot();
         Sway();
-        Debug.Log(isAiming);
 
     }
     private void FixedUpdate()
