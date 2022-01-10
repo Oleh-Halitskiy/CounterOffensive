@@ -134,6 +134,76 @@ struct Delegate_t;
 struct DelegateData_t1BF9F691B56DAE5F8C28C5E084FDE94F15F27BBE;
 // System.Delegate[]
 struct DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Boolean,System.Object>
+struct Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Byte,System.Int32>
+struct Getter_tEA201F9090FF536D5B928A631ED794B89CD05995;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Byte,System.Int64>
+struct Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Byte,System.Object>
+struct Getter_t2862F9167BC1434D6738873023248C29C0610DCD;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Char,System.Int32>
+struct Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Char,System.Int64>
+struct Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Char,System.Object>
+struct Getter_t6480629B39C8AC431785316F2AD1C9240DA86149;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>
+struct Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>
+struct Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>
+struct Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.DateTime,System.Int32>
+struct Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.DateTime,System.Int64>
+struct Getter_t8149684AA5A39E390B9080408496E59EEF845E88;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.DateTime,System.Object>
+struct Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.DateTimeOffset,System.Int32>
+struct Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.DateTimeOffset,System.Int64>
+struct Getter_t84377EAC43C97599EAED34A9D80A010A83D41645;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.DateTimeOffset,System.Object>
+struct Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Decimal,System.Int32>
+struct Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Decimal,System.Int64>
+struct Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Decimal,System.Object>
+struct Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Diagnostics.Tracing.EmptyStruct,System.Int32>
+struct Getter_tEDAD756642AE96637B5C021919445B9062BB04C8;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Diagnostics.Tracing.EmptyStruct,System.Int64>
+struct Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Diagnostics.Tracing.EmptyStruct,System.Object>
+struct Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Double,System.Int32>
+struct Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Double,System.Int64>
+struct Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Double,System.Object>
+struct Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Guid,System.Int32>
+struct Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Guid,System.Int64>
+struct Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Guid,System.Object>
+struct Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int16,System.Int32>
+struct Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int16,System.Int64>
+struct Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int16,System.Object>
+struct Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int32,System.Int32>
+struct Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int32,System.Int64>
+struct Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int32,System.Object>
+struct Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int64,System.Int32>
+struct Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701;
 // System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int64,System.Int64>
 struct Getter_tD0FF52295B64B7EF2E8E16055A3CAAD6FE43481D;
 // System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.Int64,System.Object>
@@ -192,6 +262,76 @@ struct Getter_tB4787000082F052C2DEB8E57105C836900F976DC;
 struct Getter_t3B2F133BE2A4289A78068AA9CFC82A5741CA01C5;
 // System.Diagnostics.Tracing.ClassPropertyWriter`2/Getter<System.UIntPtr,System.Object>
 struct Getter_t3265F06CD25C3C1B7A6DF156CBAA69F4DFE56B64;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Boolean,System.Object>
+struct ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int32>
+struct ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int64>
+struct ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Object>
+struct ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int32>
+struct ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int64>
+struct ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Object>
+struct ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>
+struct ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>
+struct ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>
+struct ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int32>
+struct ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int64>
+struct ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Object>
+struct ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int32>
+struct ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int64>
+struct ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Object>
+struct ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int32>
+struct ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int64>
+struct ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Object>
+struct ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int32>
+struct ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int64>
+struct ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Object>
+struct ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int32>
+struct ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int64>
+struct ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Object>
+struct ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int32>
+struct ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int64>
+struct ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Object>
+struct ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int32>
+struct ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int64>
+struct ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Object>
+struct ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int32>
+struct ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int64>
+struct ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Object>
+struct ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32;
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Int32>
+struct ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816;
 // System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Int64>
 struct ClassPropertyWriter_2_t9F1A1DFEEA627B1387BC957B5D1DBF43082E7825;
 // System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Object>
@@ -898,29 +1038,64 @@ IL2CPP_EXTERN_C const uint32_t Caster_1__cctor_mFB662EA201B53C43CC18601027EA7290
 IL2CPP_EXTERN_C const uint32_t Caster_1__cctor_mFE75AADFE204767FD7C6176C0951663DC8585088_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Caster_1__cctor_mFF5E20D218F5CD29BB26E572956CDC40D936DE8A_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Caster_1__cctor_mFF7333D96BB17228F0CD46C57E352200E4CD8141_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m01C02F036B8A059BDEB028A98F991254A022D489_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m17C5FE0ED5135205E74FD1680E5178CA92EAE425_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m17F1C2CE4B84F6F0202F4795F02FFCA3EAC6A90B_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m1A5E2F1CCB9AC73526A51B17B5452760E35B7523_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m21E4E38247957A551CA31243CC64CF97A6B58ACF_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m2A597B1E098A10DD00862011CB09D88658F3F677_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m3020C0609B874371B18D3E0DCA211D61EFD7AD41_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m3742DDB26BB292F3E2BAFB2654370E07EEF15F70_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m3CC196390F5B6E61F907689FDEEBBD68BC3672DB_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m46279226E8B56C24804303B842A24EA5754A8A6C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m4B8217F5EA2FC4C324FEE1E9B2D02C216D4B0629_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m4C1D85E9F3A5FF9E8A4421A101B3EC4042255551_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m4C466385133FD61094A3B7EFBC47FF81E6069FD0_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m4D340FE7C94A10E9DB71D743ADC20E38F8EBF540_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m5145C6FCD9CE7ACAAEB6D6D0DB6A3D41CDA0A20A_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m5761AAD5EAFBF163E61F9DDC868981045C21B23B_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m5A61E36C45FFAA7CE5C879BC5C9570D86C2A8CC0_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m5CC0A57118F16FB6B802D03560242152775338F2_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m634871632A84B6CC25B57265D5D09319BC1A8871_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m683163A8905A3EA6BE46A7C40318D14221872FB6_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m684C56F7B8A8893E30ECA4FF737E5DFD51AAF02F_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m72F8B1FA0B25FB0F769C9F6B36B47645BD316F6F_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m74B1961E28D33886350B095E7FB195CEE759CCF7_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m791FA76185A6F692AA6040AEF81FB7F3DC1E7C6B_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m7E9AA4DF8891C951C3C9604BB10707B542D16842_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m80BF2C53122663E156C7C2ABBA83508647764DBA_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m859BB7A6C1DE7A187BA409F9D12C0A6A58A134A6_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m88802813D0AE00A49556BC02DED88618ADFFD849_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m9389028963CF2F83CD8804B4BF99B7EB1ADFD06F_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m93E3DDF57172F975EB69240A2990E8BFEA739894_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m947A2A0920A532C307A0D8C2D99079D078F0C531_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m9738C46D29FF4AE9A66CFA882261BFAAB8C540DE_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m988B1849E913ED25DAC276D1B4F3EF5F6CABC7E1_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_m9AFB2D2A8E85E7185E004961895BF352258852FC_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mA131571856E66BAD003B3F60FB0BE8C4C6C6FD25_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mA2B0DF4B805682FAC173CEA519DA63B77112EE61_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mAA2028648FA4D7DC2D8975CC34B598DBAEF20C7D_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mAEF904DB2BEB7367E77534126B46EDD9ACF404FD_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mAF74F899066052111F8C8D5236B67A0CA59384B7_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mB075D8EE31747D0C35A034E6C826EEB201998D42_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mB22DF62C0ED0AA9DF43B9A389B4EA8E72B0B006C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mB96B7FECA77FEDD44C803333B0224511BAFE7761_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mBA0D0CD730D59658BD2891E3EB0AC14CD9D96E7C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mBB2BC595C3D58800B1A5009C92711086DD261FF8_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mBC7F532E4AECD8BCBAF6904B555456A0A4419F94_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mC1B8FE50038BBC97BA497D9DC1C3483F25479D71_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mCBCBDA97E28A01F91DD2EC64A4FA7619E6E409A3_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mD28B608927BFFF4A510A2020741EC660368AC090_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mD6244142F0E53F51392C8CB4F0ECE3383F2CCF43_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mD7361BC59256074AA09BC7AC7A3982D1D994D902_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mDA665E9CBC64152BA1214BDB6E46F94FF9C3CF38_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mDF73B976499D3F208A5A0EFC07E0E4975687668C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mE1472EB25FD02C010F15023471CA1E2F927613FF_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mE1BBA1A7003B821F572A71BD2393819B3CD5A9E3_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mE4E16D99436D2A416C615D29ACEF4D379FB773BC_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mE5DD97D7AFDCA83DE47B2C2A70A7BD9AC0D6C84A_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mEB5A18B978AAB043AFDA4A43A0C14A8FC64D3E33_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mED29E7E4952C32131EDAD73CACC1F4D95D953EDF_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mED991E5903C16B3437339F1B387F74E0DED969AE_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mEDA7EA63F699A363BB017AF6EFB13378B774B9D2_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ClassPropertyWriter_2__ctor_mF0FC8053ABDDB9F58220999E2550770BF6CEFE09_MetadataUsageId;
@@ -973,64 +1148,30 @@ IL2CPP_EXTERN_C const uint32_t EnumByteTypeInfo_1_WriteMetadata_mEB5CFAF40C169F9
 IL2CPP_EXTERN_C const uint32_t EnumByteTypeInfo_1_WriteMetadata_mEE366EC795495DE6D69167C10F2E1DBF3B095627_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m031AD8509562974D959E364ABFADD2D97914F50B_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m03EF66B7ECBE87BAA7765131C426A8DB470151B8_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m0A718EB4750A9F38DC040CF973161A018D8D59D1_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m1260C792A27868089945657E35418F7A5003845F_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m14667C6DE189228D10F73820F9A5C6F0D7B43EC1_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m179C101C40F1E088BAFC146979222119F5AE7F72_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m1BFFE018B90ADA07284D0F1B39304D8C6132483F_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m1C59FE72F82A7FA4F4F290546A12356B6F352A45_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m2D4473522F7048229610120F304EB9C4CDB65AEE_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m35CF4CDA6AC7DBB22A438C84A48F9D3B38EC22A9_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m3A2BD0E0D53C906CB9F0AB3690B35E035EBC44E1_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m3FCE17FE4DC6D093C9BEF139713486034C6871AE_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m46B7D9AF2C09758826F632F54EE0082B7AC4B10C_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m4E95A6BC42273EBC1855FAF723B5C480E5865F32_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m4F40710FDCFF52BA5CADABA85612FDA4C578E609_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m530844CF63AFDB7CECAE59BA87E5048F0E742294_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m5520D2FE5A03F2AE257D67160214A3A5BD17ACA8_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m5554587A5F70FE517AB41AA4F53FCA3261E19CBE_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m57251C0724D1F40FDAB4F1CB36BE02B289BAF8FD_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m57813051CFC7B5BCF369B35BF8EB82BF447D5D84_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m59DEAF55D1C3932CB6BECC23ED68CE51CAE881B1_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m5B367F878ECB00A7149CAE6F96F7434B7DA35E44_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m7C90AAA2C504B96292C1D6FB7757982ED568862C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m7ED032F29F433D19CCB736484580A5FA3EE34CF0_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m846491011F4B4F436B2E6D3FCC88183DB872F429_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m849C3840E62DDB0C328B60CD958150F0AEFC0DAE_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m84A84B52328E7415423A297B236A81D3BBBAD71F_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m84FCAB9F9A73C6D4680A3DE7E76889C5F7696F54_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m86C95A0C62306B7CBB968FE92B87DF1782691F7B_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m8DE1A531673B1432BDF2C16866FD6D13953E9A99_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m90A9C1B1F497A33BDE2099F926FE097FBC0932C6_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m93C04C510498BD85B54B81FAFEFA3F9D92FD57F2_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m949B7FB337F6D565A8532C63F57A0430EFD250E3_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m94FC28813E682B4FAC47CAAC5561D5860FD755FC_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m95A4B5E1CD1C42C3D55352E44A7B676589549E47_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m96990099F3D1E6ED1717D0C0FA2E2B91F68125EA_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m97B66922D912C1A45A304E2781936A5EA3969BB1_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m9AAB719959BB4361265D55256DFCDDA431D503BE_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_m9D52257029C093EF725542030DAE28CF486B7760_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mA0044E21D3D74F84870CB1E84708C3D2C047A547_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mA7F83D4DA6AF3215CCDBC405E4CFB291148D3952_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mAD8CEDB012593281F1F167278D7D974980B3D6B4_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mB3BC70285B3DC2C1F72E79E9C8F9172700020E6F_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mBC3FA46D1FC2CC283A633DBB0D6113F1ED12E0E7_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mBFEA74DD3257235CAB60572016FFC5306015F0F7_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mC2C18420EDCAEF2C2AE4D61BE8AE01C583C18B03_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mCAE637BC35F680E42B85BBDD3D8D389299667A62_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mCF90E62C1617AC56FB45D035305FBCC38C979B17_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mD9F7B9171F60D75FCA298A9B4CB8792A1ECD65B3_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mDE23824EDBEF2B08282A6ADE8170FFC02F04A7E8_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mDF3C5B06D803C3590EF14ED489638694164D9BC0_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mE6E34CE02BB9A427034AE60621819D4D07933078_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mE7EC44E59D54C9D4FC32357CE56E33245E5B0668_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mEADF6DAF0002008020352C50CFA08D6F061B6E6B_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mED5F77E080D38591B8DFD461680CE486FD41C5CB_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mEDC416C1C6F55E306F20FF7AC1F484438AD27480_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mF6683D2AF4B7874ECB1AF8A69F827721C073E4A2_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mFC9B12B09415143DE015E951A13281725DAEFF0B_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mFEB1ADF0181D4233560E48B37953F3F1EC8D56C1_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t Transformer_1_BeginInvoke_mFF8F67940FA19F9806C8403604B8C86B9539A91A_MetadataUsageId;
 struct Delegate_t_marshaled_com;
 struct Delegate_t_marshaled_pinvoke;
 
@@ -5907,6 +6048,114 @@ public:
 };
 
 
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Boolean>
+struct  PropertyAccessor_1_t91515814B13611840CA3A9B303F42E8D101BC8C6  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Byte>
+struct  PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Char>
+struct  PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>
+struct  PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.DateTime>
+struct  PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.DateTimeOffset>
+struct  PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Decimal>
+struct  PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Diagnostics.Tracing.EmptyStruct>
+struct  PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Double>
+struct  PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Guid>
+struct  PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Int16>
+struct  PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.PropertyAccessor`1<System.Int32>
+struct  PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
 // System.Diagnostics.Tracing.PropertyAccessor`1<System.Int64>
 struct  PropertyAccessor_1_t642E402A4B28B9F284B4E63513358E6F5A504881  : public RuntimeObject
 {
@@ -6472,6 +6721,1056 @@ public:
 	inline void set_NearPositiveZero_13(Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  value)
 	{
 		___NearPositiveZero_13 = value;
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Boolean,System.Object>
+struct  ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE  : public PropertyAccessor_1_t91515814B13611840CA3A9B303F42E8D101BC8C6
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE, ___getter_1)); }
+	inline Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int32>
+struct  ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960  : public PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960, ___getter_1)); }
+	inline Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int64>
+struct  ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98  : public PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98, ___getter_1)); }
+	inline Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B * get_getter_1() const { return ___getter_1; }
+	inline Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Object>
+struct  ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F  : public PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t2862F9167BC1434D6738873023248C29C0610DCD * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F, ___getter_1)); }
+	inline Getter_t2862F9167BC1434D6738873023248C29C0610DCD * get_getter_1() const { return ___getter_1; }
+	inline Getter_t2862F9167BC1434D6738873023248C29C0610DCD ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t2862F9167BC1434D6738873023248C29C0610DCD * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int32>
+struct  ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202  : public PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202, ___getter_1)); }
+	inline Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A * get_getter_1() const { return ___getter_1; }
+	inline Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int64>
+struct  ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658  : public PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658, ___getter_1)); }
+	inline Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE * get_getter_1() const { return ___getter_1; }
+	inline Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Object>
+struct  ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D  : public PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D, ___getter_1)); }
+	inline Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>
+struct  ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA  : public PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA, ___getter_1)); }
+	inline Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>
+struct  ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D  : public PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D, ___getter_1)); }
+	inline Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>
+struct  ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575  : public PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575, ___getter_1)); }
+	inline Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D * get_getter_1() const { return ___getter_1; }
+	inline Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int32>
+struct  ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C  : public PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C, ___getter_1)); }
+	inline Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int64>
+struct  ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B  : public PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t8149684AA5A39E390B9080408496E59EEF845E88 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B, ___getter_1)); }
+	inline Getter_t8149684AA5A39E390B9080408496E59EEF845E88 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t8149684AA5A39E390B9080408496E59EEF845E88 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t8149684AA5A39E390B9080408496E59EEF845E88 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Object>
+struct  ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736  : public PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736, ___getter_1)); }
+	inline Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int32>
+struct  ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD  : public PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD, ___getter_1)); }
+	inline Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C * get_getter_1() const { return ___getter_1; }
+	inline Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int64>
+struct  ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1  : public PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1, ___getter_1)); }
+	inline Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Object>
+struct  ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2  : public PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2, ___getter_1)); }
+	inline Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int32>
+struct  ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530  : public PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530, ___getter_1)); }
+	inline Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int64>
+struct  ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082  : public PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082, ___getter_1)); }
+	inline Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E * get_getter_1() const { return ___getter_1; }
+	inline Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Object>
+struct  ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51  : public PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51, ___getter_1)); }
+	inline Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int32>
+struct  ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855  : public PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855, ___getter_1)); }
+	inline Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int64>
+struct  ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036  : public PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036, ___getter_1)); }
+	inline Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Object>
+struct  ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F  : public PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F, ___getter_1)); }
+	inline Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int32>
+struct  ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26  : public PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26, ___getter_1)); }
+	inline Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int64>
+struct  ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C  : public PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C, ___getter_1)); }
+	inline Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E * get_getter_1() const { return ___getter_1; }
+	inline Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Object>
+struct  ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B  : public PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B, ___getter_1)); }
+	inline Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E * get_getter_1() const { return ___getter_1; }
+	inline Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int32>
+struct  ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4  : public PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4, ___getter_1)); }
+	inline Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int64>
+struct  ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88  : public PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88, ___getter_1)); }
+	inline Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA * get_getter_1() const { return ___getter_1; }
+	inline Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Object>
+struct  ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED  : public PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED, ___getter_1)); }
+	inline Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int32>
+struct  ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98  : public PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98, ___getter_1)); }
+	inline Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB * get_getter_1() const { return ___getter_1; }
+	inline Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int64>
+struct  ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D  : public PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D, ___getter_1)); }
+	inline Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Object>
+struct  ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462  : public PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462, ___getter_1)); }
+	inline Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int32>
+struct  ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29  : public PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29, ___getter_1)); }
+	inline Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 * get_getter_1() const { return ___getter_1; }
+	inline Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int64>
+struct  ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0  : public PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0, ___getter_1)); }
+	inline Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE * get_getter_1() const { return ___getter_1; }
+	inline Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Object>
+struct  ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32  : public PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32, ___getter_1)); }
+	inline Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
+	}
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Int32>
+struct  ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816  : public PropertyAccessor_1_t642E402A4B28B9F284B4E63513358E6F5A504881
+{
+public:
+	// System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::valueTypeInfo
+	TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * ___valueTypeInfo_0;
+	// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<ContainerType,ValueType> System.Diagnostics.Tracing.ClassPropertyWriter`2::getter
+	Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 * ___getter_1;
+
+public:
+	inline static int32_t get_offset_of_valueTypeInfo_0() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816, ___valueTypeInfo_0)); }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * get_valueTypeInfo_0() const { return ___valueTypeInfo_0; }
+	inline TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C ** get_address_of_valueTypeInfo_0() { return &___valueTypeInfo_0; }
+	inline void set_valueTypeInfo_0(TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * value)
+	{
+		___valueTypeInfo_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___valueTypeInfo_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_getter_1() { return static_cast<int32_t>(offsetof(ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816, ___getter_1)); }
+	inline Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 * get_getter_1() const { return ___getter_1; }
+	inline Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 ** get_address_of_getter_1() { return &___getter_1; }
+	inline void set_getter_1(Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 * value)
+	{
+		___getter_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___getter_1), (void*)value);
 	}
 };
 
@@ -8610,6 +9909,321 @@ public:
 
 // System.AsyncCallback
 struct  AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Boolean,System.Object>
+struct  Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Byte,System.Int32>
+struct  Getter_tEA201F9090FF536D5B928A631ED794B89CD05995  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Byte,System.Int64>
+struct  Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Byte,System.Object>
+struct  Getter_t2862F9167BC1434D6738873023248C29C0610DCD  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Char,System.Int32>
+struct  Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Char,System.Int64>
+struct  Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Char,System.Object>
+struct  Getter_t6480629B39C8AC431785316F2AD1C9240DA86149  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>
+struct  Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>
+struct  Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>
+struct  Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.DateTime,System.Int32>
+struct  Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.DateTime,System.Int64>
+struct  Getter_t8149684AA5A39E390B9080408496E59EEF845E88  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.DateTime,System.Object>
+struct  Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.DateTimeOffset,System.Int32>
+struct  Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.DateTimeOffset,System.Int64>
+struct  Getter_t84377EAC43C97599EAED34A9D80A010A83D41645  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.DateTimeOffset,System.Object>
+struct  Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Decimal,System.Int32>
+struct  Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Decimal,System.Int64>
+struct  Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Decimal,System.Object>
+struct  Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Diagnostics.Tracing.EmptyStruct,System.Int32>
+struct  Getter_tEDAD756642AE96637B5C021919445B9062BB04C8  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Diagnostics.Tracing.EmptyStruct,System.Int64>
+struct  Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Diagnostics.Tracing.EmptyStruct,System.Object>
+struct  Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Double,System.Int32>
+struct  Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Double,System.Int64>
+struct  Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Double,System.Object>
+struct  Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Guid,System.Int32>
+struct  Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Guid,System.Int64>
+struct  Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Guid,System.Object>
+struct  Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int16,System.Int32>
+struct  Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int16,System.Int64>
+struct  Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int16,System.Object>
+struct  Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int32,System.Int32>
+struct  Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int32,System.Int64>
+struct  Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int32,System.Object>
+struct  Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7  : public MulticastDelegate_t
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.Tracing.ClassPropertyWriter`2_Getter<System.Int64,System.Int32>
+struct  Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701  : public MulticastDelegate_t
 {
 public:
 
@@ -11362,6 +12976,3517 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Statics_Format8_m1C71026EA0BAB2008E3F
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TraceLoggingMetadataCollector_AddScalar_m136E01C1CEEFA221D5F78507069DFE8590CC15FB (TraceLoggingMetadataCollector_t794F754226AD9DDCF0B4E0055DE3AA7378DEDD7E * __this, String_t* ___name0, int32_t ___type1, const RuntimeMethod* method);
 // System.Void System.Diagnostics.Tracing.TraceLoggingDataCollector::AddScalar(System.Byte)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TraceLoggingDataCollector_AddScalar_mDDFC0EB23CCD9845D919E0DF87A3E00963B39FCF (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * __this, uint8_t ___value0, const RuntimeMethod* method);
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Boolean,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mD6244142F0E53F51392C8CB4F0ECE3383F2CCF43_gshared (ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mD6244142F0E53F51392C8CB4F0ECE3383F2CCF43_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t91515814B13611840CA3A9B303F42E8D101BC8C6 *)__this);
+		((  void (*) (PropertyAccessor_1_t91515814B13611840CA3A9B303F42E8D101BC8C6 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t91515814B13611840CA3A9B303F42E8D101BC8C6 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Boolean,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m84B18ACE3E6E8C4E9817C637450B791CF9AE1782_gshared (ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, bool* ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 * L_1 = (Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)__this->get_getter_1();
+		bool* L_2 = ___container1;
+		bool L_3 = (*(bool*)L_2);
+		NullCheck((Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)L_1, (bool)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Boolean,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m9B543EB5AA606E5ABD57CE40D774A8ED8F6FC8D5_gshared (ClassPropertyWriter_2_tFEFA98B4E109FB709FE5F45B24985FD89B70CFAE * __this, bool ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 * L_1 = (Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)__this->get_getter_1();
+		bool L_2 = ___container0;
+		NullCheck((Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *, bool, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tB7BA7ACD1F24501DE08E74F9C84BC3B8AD215C69 *)L_1, (bool)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m3020C0609B874371B18D3E0DCA211D61EFD7AD41_gshared (ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m3020C0609B874371B18D3E0DCA211D61EFD7AD41_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *)__this);
+		((  void (*) (PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mD4D069E1D375E43D5B5CD9B636DD9FF553345F40_gshared (ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, uint8_t* ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 * L_1 = (Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)__this->get_getter_1();
+		uint8_t* L_2 = ___container1;
+		uint8_t L_3 = (*(uint8_t*)L_2);
+		NullCheck((Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *, uint8_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)L_1, (uint8_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m5DF4D959AF749EEE5092BD2B074C7F2D5016BA6E_gshared (ClassPropertyWriter_2_t4E4358AD70F15C4BFCDEB4C45228B76F82A3F960 * __this, uint8_t ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 * L_1 = (Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)__this->get_getter_1();
+		uint8_t L_2 = ___container0;
+		NullCheck((Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *, uint8_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tEA201F9090FF536D5B928A631ED794B89CD05995 *)L_1, (uint8_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mED29E7E4952C32131EDAD73CACC1F4D95D953EDF_gshared (ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mED29E7E4952C32131EDAD73CACC1F4D95D953EDF_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *)__this);
+		((  void (*) (PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mECC0A612F4951C4AC280922F8C1EC93EB561867D_gshared (ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, uint8_t* ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B * L_1 = (Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)__this->get_getter_1();
+		uint8_t* L_2 = ___container1;
+		uint8_t L_3 = (*(uint8_t*)L_2);
+		NullCheck((Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *, uint8_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)L_1, (uint8_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mEA8D5288AF31274F0BB6C2F662EAA534CC0ADF63_gshared (ClassPropertyWriter_2_t3B1209E16C6BC9F955973B44187FA80691A8DA98 * __this, uint8_t ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B * L_1 = (Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)__this->get_getter_1();
+		uint8_t L_2 = ___container0;
+		NullCheck((Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *, uint8_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tB2C9259D7C4386CB1E2C3340A48D31ACEC6BB37B *)L_1, (uint8_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mD28B608927BFFF4A510A2020741EC660368AC090_gshared (ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mD28B608927BFFF4A510A2020741EC660368AC090_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *)__this);
+		((  void (*) (PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t76A09AC467B136CF5EC6B6B87B61C890FA304251 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m4B64BFED00ADB61C4D9A1B020D8EFDD5DED409F0_gshared (ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, uint8_t* ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t2862F9167BC1434D6738873023248C29C0610DCD * L_1 = (Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)__this->get_getter_1();
+		uint8_t* L_2 = ___container1;
+		uint8_t L_3 = (*(uint8_t*)L_2);
+		NullCheck((Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t2862F9167BC1434D6738873023248C29C0610DCD *, uint8_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)L_1, (uint8_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Byte,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mDF8573F61415D33BFF26B7D42834713A1EF1D5D5_gshared (ClassPropertyWriter_2_t8362577D854A22ECF7FB8A5AAED0D8813E47276F * __this, uint8_t ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t2862F9167BC1434D6738873023248C29C0610DCD * L_1 = (Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)__this->get_getter_1();
+		uint8_t L_2 = ___container0;
+		NullCheck((Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t2862F9167BC1434D6738873023248C29C0610DCD *, uint8_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t2862F9167BC1434D6738873023248C29C0610DCD *)L_1, (uint8_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m1A5E2F1CCB9AC73526A51B17B5452760E35B7523_gshared (ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m1A5E2F1CCB9AC73526A51B17B5452760E35B7523_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *)__this);
+		((  void (*) (PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m2BE5973E6BC14A4F29FF22575BA26C11DD4EA46F_gshared (ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Il2CppChar* ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A * L_1 = (Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)__this->get_getter_1();
+		Il2CppChar* L_2 = ___container1;
+		Il2CppChar L_3 = (*(Il2CppChar*)L_2);
+		NullCheck((Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *, Il2CppChar, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)L_1, (Il2CppChar)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m6FE8114CF3CFDBFE4D2FF6553BFC0A7132475932_gshared (ClassPropertyWriter_2_t442A5310E4DBA19FFBD78D018356B80357479202 * __this, Il2CppChar ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A * L_1 = (Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)__this->get_getter_1();
+		Il2CppChar L_2 = ___container0;
+		NullCheck((Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *, Il2CppChar, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t26228E7C1EF2858E69BAE26713F06F85F39B372A *)L_1, (Il2CppChar)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mB22DF62C0ED0AA9DF43B9A389B4EA8E72B0B006C_gshared (ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mB22DF62C0ED0AA9DF43B9A389B4EA8E72B0B006C_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *)__this);
+		((  void (*) (PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m8A7427DB4A06E7AA34651E0E1ACC0B7E0D36D601_gshared (ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Il2CppChar* ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE * L_1 = (Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)__this->get_getter_1();
+		Il2CppChar* L_2 = ___container1;
+		Il2CppChar L_3 = (*(Il2CppChar*)L_2);
+		NullCheck((Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *, Il2CppChar, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)L_1, (Il2CppChar)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m4E6A8B25663D012B34A7D66A8FFE8284B828AA4F_gshared (ClassPropertyWriter_2_tFDA821A1DF9A42094B2CDF9E35E217B08C50A658 * __this, Il2CppChar ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE * L_1 = (Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)__this->get_getter_1();
+		Il2CppChar L_2 = ___container0;
+		NullCheck((Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *, Il2CppChar, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t8EA62E7DE67FFE8557384915A46B32C19ED508AE *)L_1, (Il2CppChar)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m72F8B1FA0B25FB0F769C9F6B36B47645BD316F6F_gshared (ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m72F8B1FA0B25FB0F769C9F6B36B47645BD316F6F_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *)__this);
+		((  void (*) (PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t77FF65729F94D1F6289B531CF4D518A174AF2D1A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m8570A147374CB3E20DB3B931FAB9F0CCE468F3EC_gshared (ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Il2CppChar* ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 * L_1 = (Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)__this->get_getter_1();
+		Il2CppChar* L_2 = ___container1;
+		Il2CppChar L_3 = (*(Il2CppChar*)L_2);
+		NullCheck((Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *, Il2CppChar, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)L_1, (Il2CppChar)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Char,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m4FC57136054668EAD60BCF4E9F131E07256BC91C_gshared (ClassPropertyWriter_2_t9F9288F35C111AFEE16BADE00A148BC6F892402D * __this, Il2CppChar ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 * L_1 = (Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)__this->get_getter_1();
+		Il2CppChar L_2 = ___container0;
+		NullCheck((Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *, Il2CppChar, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t6480629B39C8AC431785316F2AD1C9240DA86149 *)L_1, (Il2CppChar)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mAF74F899066052111F8C8D5236B67A0CA59384B7_gshared (ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mAF74F899066052111F8C8D5236B67A0CA59384B7_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *)__this);
+		((  void (*) (PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m8AC46765468E68F25CC09D332A0EC84D5C62E0F4_gshared (ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE * ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 * L_1 = (Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)__this->get_getter_1();
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE * L_2 = ___container1;
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  L_3 = (*(KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE *)L_2);
+		NullCheck((Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)L_1, (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m6A21BEC2415683AE136C4313C48AE8FC2AB38C28_gshared (ClassPropertyWriter_2_t39115924B280866A7AFD6050FB0F55BD57A759FA * __this, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 * L_1 = (Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)__this->get_getter_1();
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  L_2 = ___container0;
+		NullCheck((Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tA4B47AF0C8B87BEB9A7A688A0F1A3DCEDE0C9766 *)L_1, (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m4D340FE7C94A10E9DB71D743ADC20E38F8EBF540_gshared (ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m4D340FE7C94A10E9DB71D743ADC20E38F8EBF540_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *)__this);
+		((  void (*) (PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mCEB132B391EE6E565E37B58E7B959E8ACFC6AC26_gshared (ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE * ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 * L_1 = (Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)__this->get_getter_1();
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE * L_2 = ___container1;
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  L_3 = (*(KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE *)L_2);
+		NullCheck((Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)L_1, (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mD5A0E4725A6A83FCF8CC3DA2FE4E5DDA1E05F2A9_gshared (ClassPropertyWriter_2_tC6A6CB14D0B8B3D54B306078E0D5583B9724D47D * __this, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 * L_1 = (Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)__this->get_getter_1();
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  L_2 = ___container0;
+		NullCheck((Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t24D988C901BBB87896D5F42F7AAE62543E438DF3 *)L_1, (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m3742DDB26BB292F3E2BAFB2654370E07EEF15F70_gshared (ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m3742DDB26BB292F3E2BAFB2654370E07EEF15F70_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *)__this);
+		((  void (*) (PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tB1AFBC61BA4EBFE324C03DBE1E464DB1F154D929 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mCD2DEEE9681E29FF0D3F02A210DD477F6F53330C_gshared (ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE * ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D * L_1 = (Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)__this->get_getter_1();
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE * L_2 = ___container1;
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  L_3 = (*(KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE *)L_2);
+		NullCheck((Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)L_1, (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mB48552993CEB0D9A1534E3212F6AFB7E75090793_gshared (ClassPropertyWriter_2_t059554DE3CDD6A19E3F490C422CF35AF18AFF575 * __this, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D * L_1 = (Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)__this->get_getter_1();
+		KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  L_2 = ___container0;
+		NullCheck((Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tDA5A6606F2E0EA05E5C3008223BF90CB9FECBF8D *)L_1, (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m4C1D85E9F3A5FF9E8A4421A101B3EC4042255551_gshared (ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m4C1D85E9F3A5FF9E8A4421A101B3EC4042255551_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *)__this);
+		((  void (*) (PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m75DE4CEBE26F7872FDE8CC30B0AFB24F09665B75_gshared (ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 * ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 * L_1 = (Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)__this->get_getter_1();
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 * L_2 = ___container1;
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  L_3 = (*(DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 *)L_2);
+		NullCheck((Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)L_1, (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m98D39CD19A7E68F07B5E47ABE1AB2F0425F728E0_gshared (ClassPropertyWriter_2_t388C674DA7B3A6253B0F7B4AA22CAEDB42A56F7C * __this, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 * L_1 = (Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)__this->get_getter_1();
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  L_2 = ___container0;
+		NullCheck((Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t0B62D433CCFF3227ACAC391D10D1B54D0D061369 *)L_1, (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mDA665E9CBC64152BA1214BDB6E46F94FF9C3CF38_gshared (ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mDA665E9CBC64152BA1214BDB6E46F94FF9C3CF38_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *)__this);
+		((  void (*) (PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m643B5F741F3DBF058CB98F9C8D608FD02A9E9651_gshared (ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 * ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t8149684AA5A39E390B9080408496E59EEF845E88 * L_1 = (Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)__this->get_getter_1();
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 * L_2 = ___container1;
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  L_3 = (*(DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 *)L_2);
+		NullCheck((Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)L_1, (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mC6E146EEBC9448253D95B8CA611BB27685BB7581_gshared (ClassPropertyWriter_2_t2DCCFDD5E85D85C4FC4732EC2B8D6DA01BE5EC9B * __this, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t8149684AA5A39E390B9080408496E59EEF845E88 * L_1 = (Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)__this->get_getter_1();
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  L_2 = ___container0;
+		NullCheck((Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t8149684AA5A39E390B9080408496E59EEF845E88 *)L_1, (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m17F1C2CE4B84F6F0202F4795F02FFCA3EAC6A90B_gshared (ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m17F1C2CE4B84F6F0202F4795F02FFCA3EAC6A90B_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *)__this);
+		((  void (*) (PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tE2902A5668A92CA5B639D08AB01C3139DF026E1A *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m5EF66362FCF62FA43A7B1DEEFEE0C6842A5512C2_gshared (ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 * ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 * L_1 = (Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)__this->get_getter_1();
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 * L_2 = ___container1;
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  L_3 = (*(DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 *)L_2);
+		NullCheck((Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)L_1, (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTime,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m9D7271C537E7E201C7B4F7432D91FE3EB9A836A4_gshared (ClassPropertyWriter_2_t72F68905A2273C125CCDB4ADB69FFE23E0B49736 * __this, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 * L_1 = (Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)__this->get_getter_1();
+		DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  L_2 = ___container0;
+		NullCheck((Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tE4D6CF7DD892BB94E302D76CCC26586175EDC797 *)L_1, (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m9738C46D29FF4AE9A66CFA882261BFAAB8C540DE_gshared (ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m9738C46D29FF4AE9A66CFA882261BFAAB8C540DE_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *)__this);
+		((  void (*) (PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m2175905DA9C5752913C0017CCEAF5C981D3B5646_gshared (ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 * ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C * L_1 = (Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)__this->get_getter_1();
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 * L_2 = ___container1;
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  L_3 = (*(DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 *)L_2);
+		NullCheck((Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)L_1, (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m820E03B70B9B5D4E7F2E760041FE52EBA95A3C93_gshared (ClassPropertyWriter_2_t8B0E3F69B0E4EDBAC864ED2820F9F6A86C80DFFD * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C * L_1 = (Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)__this->get_getter_1();
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  L_2 = ___container0;
+		NullCheck((Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tB4BA6FEB5C511FCF62AC8C298BA79169CD66773C *)L_1, (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m4C466385133FD61094A3B7EFBC47FF81E6069FD0_gshared (ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m4C466385133FD61094A3B7EFBC47FF81E6069FD0_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *)__this);
+		((  void (*) (PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m0A946650A3A718B2EB4410496C6F958C5EAE6213_gshared (ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 * ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 * L_1 = (Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)__this->get_getter_1();
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 * L_2 = ___container1;
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  L_3 = (*(DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 *)L_2);
+		NullCheck((Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)L_1, (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m755073ED194602BB0F4FDE388A08E6AC835B1FE4_gshared (ClassPropertyWriter_2_tD9F39E99F8076CE371E639A95AAB09BE6CEDC9F1 * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 * L_1 = (Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)__this->get_getter_1();
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  L_2 = ___container0;
+		NullCheck((Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t84377EAC43C97599EAED34A9D80A010A83D41645 *)L_1, (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mBC7F532E4AECD8BCBAF6904B555456A0A4419F94_gshared (ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mBC7F532E4AECD8BCBAF6904B555456A0A4419F94_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *)__this);
+		((  void (*) (PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_tE5E98447AA74D36CBDA22BC11ECB6C81D8C4B124 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m088D9EC621B24D9A774C5BC937690A2068DB4CB0_gshared (ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 * ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 * L_1 = (Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)__this->get_getter_1();
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 * L_2 = ___container1;
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  L_3 = (*(DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 *)L_2);
+		NullCheck((Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)L_1, (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.DateTimeOffset,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m93EFE879D515182B3FC0C540D3972B0D57D8D620_gshared (ClassPropertyWriter_2_t25FD39F8F1CCECADF21A10A082168A8CBA791DE2 * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 * L_1 = (Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)__this->get_getter_1();
+		DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  L_2 = ___container0;
+		NullCheck((Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t68404D9DD8D8677DBA69CC3E9C06CDA5AF50A800 *)L_1, (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m791FA76185A6F692AA6040AEF81FB7F3DC1E7C6B_gshared (ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m791FA76185A6F692AA6040AEF81FB7F3DC1E7C6B_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *)__this);
+		((  void (*) (PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mC9F0FE749730C231A41C4F7AB6C978BCBDD7840E_gshared (ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 * ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 * L_1 = (Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)__this->get_getter_1();
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 * L_2 = ___container1;
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  L_3 = (*(Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 *)L_2);
+		NullCheck((Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)L_1, (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m0FF612E902ED7688CA9191FEE464266726FA81C8_gshared (ClassPropertyWriter_2_t6A7F22FEDD9B33D306C74D36127AA4CE8E942530 * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 * L_1 = (Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)__this->get_getter_1();
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  L_2 = ___container0;
+		NullCheck((Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t6AE8C6F346B43AA92D705ACCEFB5AF7BA33EF641 *)L_1, (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mD7361BC59256074AA09BC7AC7A3982D1D994D902_gshared (ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mD7361BC59256074AA09BC7AC7A3982D1D994D902_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *)__this);
+		((  void (*) (PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m8A88D0F3DBB1DB408648828E2FCAFB02157A2B0C_gshared (ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 * ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E * L_1 = (Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)__this->get_getter_1();
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 * L_2 = ___container1;
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  L_3 = (*(Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 *)L_2);
+		NullCheck((Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)L_1, (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m22A9778281E6F668AAA278A02C9D0C8B3D79F55C_gshared (ClassPropertyWriter_2_tFA0DD107AF62424F5352759734C51D50B1AE6082 * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E * L_1 = (Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)__this->get_getter_1();
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  L_2 = ___container0;
+		NullCheck((Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t36436B0F3531D58E90D8F80A6EE36B92154FD20E *)L_1, (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mE5DD97D7AFDCA83DE47B2C2A70A7BD9AC0D6C84A_gshared (ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mE5DD97D7AFDCA83DE47B2C2A70A7BD9AC0D6C84A_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *)__this);
+		((  void (*) (PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t1E46E1E18774D1D4AFE1B94587A2BC07FCA64B10 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mA633DD81F138DBA35B97C3D775E7BFE89BE1D97E_gshared (ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 * ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 * L_1 = (Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)__this->get_getter_1();
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 * L_2 = ___container1;
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  L_3 = (*(Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 *)L_2);
+		NullCheck((Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)L_1, (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Decimal,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m135102136B72E5E8E591804BCC6B15CF463A544B_gshared (ClassPropertyWriter_2_t64BFED39EF3B336D4747FBDAA3E5147C79D2AD51 * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 * L_1 = (Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)__this->get_getter_1();
+		Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  L_2 = ___container0;
+		NullCheck((Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tFA6745B547D617BFDFDFA1B4FC01FE3895337FE6 *)L_1, (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m947A2A0920A532C307A0D8C2D99079D078F0C531_gshared (ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m947A2A0920A532C307A0D8C2D99079D078F0C531_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *)__this);
+		((  void (*) (PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mF703D920BC4AF187D72FF1621151DEB17F33319B_gshared (ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 * ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 * L_1 = (Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)__this->get_getter_1();
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 * L_2 = ___container1;
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  L_3 = (*(EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 *)L_2);
+		NullCheck((Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)L_1, (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m890E6287598E0040DC356E7F6401BF6C38674223_gshared (ClassPropertyWriter_2_t58685F2CEA39924461E566E01777AC4DA16A5855 * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 * L_1 = (Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)__this->get_getter_1();
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  L_2 = ___container0;
+		NullCheck((Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tEDAD756642AE96637B5C021919445B9062BB04C8 *)L_1, (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m988B1849E913ED25DAC276D1B4F3EF5F6CABC7E1_gshared (ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m988B1849E913ED25DAC276D1B4F3EF5F6CABC7E1_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *)__this);
+		((  void (*) (PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m217CB3FDAA12C0E405481D36A6C0968B7F4D099B_gshared (ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 * ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 * L_1 = (Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)__this->get_getter_1();
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 * L_2 = ___container1;
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  L_3 = (*(EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 *)L_2);
+		NullCheck((Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)L_1, (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m031E8853AAFD6634249CA8634C7BDBA303C5B16B_gshared (ClassPropertyWriter_2_tF22056524E9EDB96E5A9FC3606E25060FBFC7036 * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 * L_1 = (Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)__this->get_getter_1();
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  L_2 = ___container0;
+		NullCheck((Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t10809B471C9F2A6DAA5B1CE11BBEB0B0D3F28AC3 *)L_1, (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m93E3DDF57172F975EB69240A2990E8BFEA739894_gshared (ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m93E3DDF57172F975EB69240A2990E8BFEA739894_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *)__this);
+		((  void (*) (PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t8A286BF41EC06652684F1E1D77BADAB779606FEE *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m1767C069482BF95A768B23E42D0C84EEF5388B30_gshared (ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 * ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 * L_1 = (Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)__this->get_getter_1();
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 * L_2 = ___container1;
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  L_3 = (*(EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 *)L_2);
+		NullCheck((Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)L_1, (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Diagnostics.Tracing.EmptyStruct,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m40183AC4B81C21ABDD2C6208EB13DD13ED3882E0_gshared (ClassPropertyWriter_2_t34B64CDA23075893B8AFE395781E1A0992030C7F * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 * L_1 = (Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)__this->get_getter_1();
+		EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  L_2 = ___container0;
+		NullCheck((Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t1DB179B8A6B16B8DBCA8A98AEC5D9B0344A29D71 *)L_1, (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mAA2028648FA4D7DC2D8975CC34B598DBAEF20C7D_gshared (ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mAA2028648FA4D7DC2D8975CC34B598DBAEF20C7D_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *)__this);
+		((  void (*) (PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mE2F97EAACDBFDAE70CE305B12762F16105ADABBF_gshared (ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, double* ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 * L_1 = (Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)__this->get_getter_1();
+		double* L_2 = ___container1;
+		double L_3 = (*(double*)L_2);
+		NullCheck((Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *, double, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)L_1, (double)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mEE5E3D7DE3524FBCEEDFCFA338F1B76B93841D1D_gshared (ClassPropertyWriter_2_tAA8E2E344C4036E5D82922FF861AF53C821ACE26 * __this, double ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 * L_1 = (Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)__this->get_getter_1();
+		double L_2 = ___container0;
+		NullCheck((Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *, double, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t940382B4DCFC1CC40A80C808E06E19F081CFB7C9 *)L_1, (double)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mBA0D0CD730D59658BD2891E3EB0AC14CD9D96E7C_gshared (ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mBA0D0CD730D59658BD2891E3EB0AC14CD9D96E7C_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *)__this);
+		((  void (*) (PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mF01B24E68D129EAC0333743712B79E0DAF434B4D_gshared (ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, double* ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E * L_1 = (Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)__this->get_getter_1();
+		double* L_2 = ___container1;
+		double L_3 = (*(double*)L_2);
+		NullCheck((Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *, double, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)L_1, (double)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m383099F80F9D75A1E2B64F3CED5E25FF1E0CD14F_gshared (ClassPropertyWriter_2_tBEB35B561A00D0E00B73B6B660015E7031BDBF9C * __this, double ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E * L_1 = (Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)__this->get_getter_1();
+		double L_2 = ___container0;
+		NullCheck((Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *, double, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t2658FC1D30AC2FD4608A00E8D053F2FEEB0F4E9E *)L_1, (double)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mDF73B976499D3F208A5A0EFC07E0E4975687668C_gshared (ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mDF73B976499D3F208A5A0EFC07E0E4975687668C_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *)__this);
+		((  void (*) (PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t06EAC9A5AD164B3E7CC1E4CF630AB7D7644B89CC *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m7E79B40977219EFDEBFE055BB58440984C09F17E_gshared (ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, double* ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E * L_1 = (Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)__this->get_getter_1();
+		double* L_2 = ___container1;
+		double L_3 = (*(double*)L_2);
+		NullCheck((Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *, double, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)L_1, (double)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Double,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m3228FA009B7395E2652E4A420649E34FD095AB8F_gshared (ClassPropertyWriter_2_tFB85A0AFCDF900D5F76D41FECE82CCB3E79B5D3B * __this, double ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E * L_1 = (Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)__this->get_getter_1();
+		double L_2 = ___container0;
+		NullCheck((Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *, double, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t393ADCB61CC17455C92A41838A8CBCE095CF921E *)L_1, (double)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mAEF904DB2BEB7367E77534126B46EDD9ACF404FD_gshared (ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mAEF904DB2BEB7367E77534126B46EDD9ACF404FD_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *)__this);
+		((  void (*) (PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mF6171C55173C2F6B93B08B63788508E99CC595B9_gshared (ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Guid_t * ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 * L_1 = (Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)__this->get_getter_1();
+		Guid_t * L_2 = ___container1;
+		Guid_t  L_3 = (*(Guid_t *)L_2);
+		NullCheck((Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *, Guid_t , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)L_1, (Guid_t )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m94635A9D999B72159ED2230E4485F3B9D93F51C5_gshared (ClassPropertyWriter_2_tBF4C77CF4B6BF59D6754911689625380D3E461D4 * __this, Guid_t  ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 * L_1 = (Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)__this->get_getter_1();
+		Guid_t  L_2 = ___container0;
+		NullCheck((Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *, Guid_t , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t12B8A46395069AFE71304647F1CAA2B0C8FDD9C8 *)L_1, (Guid_t )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m9AFB2D2A8E85E7185E004961895BF352258852FC_gshared (ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m9AFB2D2A8E85E7185E004961895BF352258852FC_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *)__this);
+		((  void (*) (PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m88BAAE05164411BB0BF003012B21123BB0938F3E_gshared (ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Guid_t * ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA * L_1 = (Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)__this->get_getter_1();
+		Guid_t * L_2 = ___container1;
+		Guid_t  L_3 = (*(Guid_t *)L_2);
+		NullCheck((Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *, Guid_t , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)L_1, (Guid_t )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mA38D4644EC779F3D5B0DF41E7D189C775C69CF48_gshared (ClassPropertyWriter_2_t0F3FF727658B4E8DCA2910BCE8EFC0D488359B88 * __this, Guid_t  ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA * L_1 = (Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)__this->get_getter_1();
+		Guid_t  L_2 = ___container0;
+		NullCheck((Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *, Guid_t , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tD7A785234540BD846A53A6585AFF8843C8FD19BA *)L_1, (Guid_t )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mCBCBDA97E28A01F91DD2EC64A4FA7619E6E409A3_gshared (ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mCBCBDA97E28A01F91DD2EC64A4FA7619E6E409A3_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *)__this);
+		((  void (*) (PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t0EA164D1C4097ED8235B4854F131FF29F743C19C *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m7A590A0C6CBF5BCA4CD5F36746673FB3579A85A1_gshared (ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, Guid_t * ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 * L_1 = (Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)__this->get_getter_1();
+		Guid_t * L_2 = ___container1;
+		Guid_t  L_3 = (*(Guid_t *)L_2);
+		NullCheck((Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *, Guid_t , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)L_1, (Guid_t )L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Guid,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mBE6D4326BE1B346A34AA0C4664F679D4DF43B2AE_gshared (ClassPropertyWriter_2_tAC8809135552B531A41DAC785DB183A3F56AD1ED * __this, Guid_t  ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 * L_1 = (Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)__this->get_getter_1();
+		Guid_t  L_2 = ___container0;
+		NullCheck((Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *, Guid_t , const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t7DA413E9076F268EA43C2D5AE60BCF048263ED73 *)L_1, (Guid_t )L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m634871632A84B6CC25B57265D5D09319BC1A8871_gshared (ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m634871632A84B6CC25B57265D5D09319BC1A8871_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *)__this);
+		((  void (*) (PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mD663D4E2899A2B1C7C9393E611AB28F0D6500913_gshared (ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int16_t* ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB * L_1 = (Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)__this->get_getter_1();
+		int16_t* L_2 = ___container1;
+		int16_t L_3 = (*(int16_t*)L_2);
+		NullCheck((Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *, int16_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)L_1, (int16_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mD40BE7A0F82ACD5A1C4D398741D9120B1C9A8D8D_gshared (ClassPropertyWriter_2_t8D4491D22B2E9D5F5097388FA62B62E4869ADE98 * __this, int16_t ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB * L_1 = (Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)__this->get_getter_1();
+		int16_t L_2 = ___container0;
+		NullCheck((Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *, int16_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tBA8A8DFDC1820EC4B0387D0B260D34EFD208C0CB *)L_1, (int16_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m74B1961E28D33886350B095E7FB195CEE759CCF7_gshared (ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m74B1961E28D33886350B095E7FB195CEE759CCF7_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *)__this);
+		((  void (*) (PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m599573220C05D96E2B07495293B4530F20C70A93_gshared (ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int16_t* ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 * L_1 = (Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)__this->get_getter_1();
+		int16_t* L_2 = ___container1;
+		int16_t L_3 = (*(int16_t*)L_2);
+		NullCheck((Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *, int16_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)L_1, (int16_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mEA137A51B404ED02267BE4CBA565F0864E436A24_gshared (ClassPropertyWriter_2_tE4EAFDD61F797712F84AA675D7D1D9943B0CD16D * __this, int16_t ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 * L_1 = (Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)__this->get_getter_1();
+		int16_t L_2 = ___container0;
+		NullCheck((Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *, int16_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t09D4F8EBD7330378583A701DD4F7BCDB5655FCC5 *)L_1, (int16_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m5145C6FCD9CE7ACAAEB6D6D0DB6A3D41CDA0A20A_gshared (ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m5145C6FCD9CE7ACAAEB6D6D0DB6A3D41CDA0A20A_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *)__this);
+		((  void (*) (PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t9BEEEE2DB5F3A5DAA08BD401E4916672670F1167 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m599091C2F7A917FE51382C3D4EF9B092691149A2_gshared (ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int16_t* ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 * L_1 = (Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)__this->get_getter_1();
+		int16_t* L_2 = ___container1;
+		int16_t L_3 = (*(int16_t*)L_2);
+		NullCheck((Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *, int16_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)L_1, (int16_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int16,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_mBCD9B69CAC4E26DA9AE91270E798C6EA7B6C7626_gshared (ClassPropertyWriter_2_t8EAE9434BCE447AC284D81ECD1B627C78684B462 * __this, int16_t ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 * L_1 = (Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)__this->get_getter_1();
+		int16_t L_2 = ___container0;
+		NullCheck((Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *, int16_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t44BB5EB880CE3B6F714E2A39EC3BB162698DB764 *)L_1, (int16_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m2A597B1E098A10DD00862011CB09D88658F3F677_gshared (ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m2A597B1E098A10DD00862011CB09D88658F3F677_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *)__this);
+		((  void (*) (PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mE4D3F9F4C9C33F4E442ADEC137B9183A21C454C7_gshared (ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int32_t* ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 * L_1 = (Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)__this->get_getter_1();
+		int32_t* L_2 = ___container1;
+		int32_t L_3 = (*(int32_t*)L_2);
+		NullCheck((Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *, int32_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)L_1, (int32_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m9B4A52DFDE0ED4BA4BC85602347B697BEFCF44A8_gshared (ClassPropertyWriter_2_t3C95BC73542B273826E786D44070479FCFB9DB29 * __this, int32_t ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 * L_1 = (Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)__this->get_getter_1();
+		int32_t L_2 = ___container0;
+		NullCheck((Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *, int32_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t828B3E71E01D4B00A3A6A71D9F91B0B7FC01E2A5 *)L_1, (int32_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int64>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mE1BBA1A7003B821F572A71BD2393819B3CD5A9E3_gshared (ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mE1BBA1A7003B821F572A71BD2393819B3CD5A9E3_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *)__this);
+		((  void (*) (PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int64>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_mB7AF7EC040E6878D58319AF1CBD484814B3A2E5D_gshared (ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int32_t* ___container1, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t V_1 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE * L_1 = (Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)__this->get_getter_1();
+		int32_t* L_2 = ___container1;
+		int32_t L_3 = (*(int32_t*)L_2);
+		NullCheck((Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)L_1);
+		int64_t L_4 = ((  int64_t (*) (Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *, int32_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)L_1, (int32_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int64_t));
+		int64_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int64_t)G_B3_0;
+		TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 * L_6 = (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int64_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int64_t*)(int64_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Int64>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m4C81A36C01B7EDB4F2BE463D3A4ECEF9E32D14EF_gshared (ClassPropertyWriter_2_t4E9035612C6C502169D6F695C584EBF629E5C4F0 * __this, int32_t ___container0, const RuntimeMethod* method)
+{
+	int64_t V_0 = 0;
+	int64_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE * L_1 = (Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)__this->get_getter_1();
+		int32_t L_2 = ___container0;
+		NullCheck((Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)L_1);
+		int64_t L_3 = ((  int64_t (*) (Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *, int32_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_t4D313B5F60FD088AAA8AA153A5293ACC473430DE *)L_1, (int32_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int64_t));
+		int64_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int64_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Object>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_mC1B8FE50038BBC97BA497D9DC1C3483F25479D71_gshared (ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_mC1B8FE50038BBC97BA497D9DC1C3483F25479D71_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *)__this);
+		((  void (*) (PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t68CDB63C5FD6B75A1A3D4FCDBA62D41AE2DF5E2D *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Object>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m39C79F95E5124C8C976CB6FD6F2278F09E63FD73_gshared (ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int32_t* ___container1, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * V_1 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 * L_1 = (Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)__this->get_getter_1();
+		int32_t* L_2 = ___container1;
+		int32_t L_3 = (*(int32_t*)L_2);
+		NullCheck((Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)L_1);
+		RuntimeObject * L_4 = ((  RuntimeObject * (*) (Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *, int32_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)L_1, (int32_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(RuntimeObject *));
+		RuntimeObject * L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (RuntimeObject *)G_B3_0;
+		TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 * L_6 = (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, RuntimeObject ** >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Object>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_t30CA664F8DBC78F9161D725EAC6B8DB1F89C4C81 *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (RuntimeObject **)(RuntimeObject **)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int32,System.Object>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m3FAD669E6FB9B5C503792DB7277A6DF7238BF620_gshared (ClassPropertyWriter_2_tE932507A7B59AD8B8BB7AF9654BDDB493A1AEF32 * __this, int32_t ___container0, const RuntimeMethod* method)
+{
+	RuntimeObject * V_0 = NULL;
+	RuntimeObject * G_B3_0 = NULL;
+	{
+	}
+	{
+		Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 * L_1 = (Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)__this->get_getter_1();
+		int32_t L_2 = ___container0;
+		NullCheck((Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)L_1);
+		RuntimeObject * L_3 = ((  RuntimeObject * (*) (Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *, int32_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tAD36BD42626A15A338D1476D702E3DCCE33F71C7 *)L_1, (int32_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(RuntimeObject *));
+		RuntimeObject * L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		return G_B3_0;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Int32>::.ctor(System.Diagnostics.Tracing.PropertyAnalysis)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2__ctor_m01C02F036B8A059BDEB028A98F991254A022D489_gshared (ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816 * __this, PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * ___property0, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (ClassPropertyWriter_2__ctor_m01C02F036B8A059BDEB028A98F991254A022D489_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		NullCheck((PropertyAccessor_1_t642E402A4B28B9F284B4E63513358E6F5A504881 *)__this);
+		((  void (*) (PropertyAccessor_1_t642E402A4B28B9F284B4E63513358E6F5A504881 *, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0)->methodPointer)((PropertyAccessor_1_t642E402A4B28B9F284B4E63513358E6F5A504881 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 0));
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_0 = ___property0;
+		NullCheck(L_0);
+		TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F * L_1 = (TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F *)L_0->get_typeInfo_2();
+		__this->set_valueTypeInfo_0(((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)Castclass((RuntimeObject*)L_1, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 2))));
+		RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D  L_2 = { reinterpret_cast<intptr_t> (IL2CPP_RGCTX_TYPE(method->klass->rgctx_data, 3)) };
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_3 = Type_GetTypeFromHandle_m9DC58ADF0512987012A8A016FB64B068F3B1AFF6((RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D )L_2, /*hidden argument*/NULL);
+		PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A * L_4 = ___property0;
+		NullCheck(L_4);
+		MethodInfo_t * L_5 = (MethodInfo_t *)L_4->get_getterInfo_1();
+		IL2CPP_RUNTIME_CLASS_INIT(Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95_il2cpp_TypeInfo_var);
+		Delegate_t * L_6 = Statics_CreateDelegate_mF1C37CC7EA4839A092250B6E298BC5D6155F51E6((Type_t *)L_3, (MethodInfo_t *)L_5, /*hidden argument*/NULL);
+		__this->set_getter_1(((Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)Castclass((RuntimeObject*)L_6, IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 4))));
+		return;
+	}
+}
+// System.Void System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Int32>::Write(System.Diagnostics.Tracing.TraceLoggingDataCollector,ContainerType&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ClassPropertyWriter_2_Write_m44E34BAE23AC6CD23886F3EC262A911769B97CBE_gshared (ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816 * __this, TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * ___collector0, int64_t* ___container1, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t V_1 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 * L_1 = (Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)__this->get_getter_1();
+		int64_t* L_2 = ___container1;
+		int64_t L_3 = (*(int64_t*)L_2);
+		NullCheck((Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)L_1);
+		int32_t L_4 = ((  int32_t (*) (Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *, int64_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)L_1, (int64_t)L_3, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_4;
+		goto IL_0029;
+	}
+
+IL_0020:
+	{
+		il2cpp_codegen_initobj((&V_1), sizeof(int32_t));
+		int32_t L_5 = V_1;
+		G_B3_0 = L_5;
+	}
+
+IL_0029:
+	{
+		V_0 = (int32_t)G_B3_0;
+		TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C * L_6 = (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)__this->get_valueTypeInfo_0();
+		TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA * L_7 = ___collector0;
+		NullCheck((TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6);
+		VirtActionInvoker2< TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *, int32_t* >::Invoke(7 /* System.Void System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>::WriteData(System.Diagnostics.Tracing.TraceLoggingDataCollector,DataType&) */, (TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C *)L_6, (TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA *)L_7, (int32_t*)(int32_t*)(&V_0));
+		return;
+	}
+}
+// System.Object System.Diagnostics.Tracing.ClassPropertyWriter`2<System.Int64,System.Int32>::GetData(ContainerType)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * ClassPropertyWriter_2_GetData_m9F4DC95C9D836ACDBF248A656820676D95843F1D_gshared (ClassPropertyWriter_2_tA7016E1E71A657A33E28B7B8804EFEAF31C03816 * __this, int64_t ___container0, const RuntimeMethod* method)
+{
+	int32_t V_0 = 0;
+	int32_t G_B3_0 = 0;
+	{
+	}
+	{
+		Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 * L_1 = (Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)__this->get_getter_1();
+		int64_t L_2 = ___container0;
+		NullCheck((Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)L_1);
+		int32_t L_3 = ((  int32_t (*) (Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *, int64_t, const RuntimeMethod*))IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6)->methodPointer)((Getter_tA6F9CB323277BF33C19B4247E5F391F28C6D3701 *)L_1, (int64_t)L_2, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(method->klass->rgctx_data, 6));
+		G_B3_0 = L_3;
+		goto IL_001f;
+	}
+
+IL_0016:
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(int32_t));
+		int32_t L_4 = V_0;
+		G_B3_0 = L_4;
+	}
+
+IL_001f:
+	{
+		int32_t L_5 = G_B3_0;
+		RuntimeObject * L_6 = Box(IL2CPP_RGCTX_DATA(method->klass->rgctx_data, 8), &L_5);
+		return L_6;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -24696,4402 +29821,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m2BFE45A10EA8
 {
 	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
 	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.DateTimeOffset>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m69A6BBD4C6BF6AA93FE3E609699DC6125E258814_gshared (Transformer_1_t92CEE2D0E9F82F259F4B10113D85847D8DE54757 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.DateTimeOffset>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mCC6E4D8DD64B92FAE2C2A67094BD317DD487F0A2_gshared (Transformer_1_t92CEE2D0E9F82F259F4B10113D85847D8DE54757 * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.DateTimeOffset>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m84FCAB9F9A73C6D4680A3DE7E76889C5F7696F54_gshared (Transformer_1_t92CEE2D0E9F82F259F4B10113D85847D8DE54757 * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m84FCAB9F9A73C6D4680A3DE7E76889C5F7696F54_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.DateTimeOffset>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m222AFF67559DC3AFB079C945BBE32CA9B5C1AB39_gshared (Transformer_1_t92CEE2D0E9F82F259F4B10113D85847D8DE54757 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Decimal>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m9A50A59EBBDB93C87CBEB97102CF781C265B7308_gshared (Transformer_1_tE3062CB768903660C5318F9D9B7DDE15A714588C * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Decimal>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mB9D061868CFCC0ADC6F835A01E43CBEAB6E9BC26_gshared (Transformer_1_tE3062CB768903660C5318F9D9B7DDE15A714588C * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Decimal>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m14667C6DE189228D10F73820F9A5C6F0D7B43EC1_gshared (Transformer_1_tE3062CB768903660C5318F9D9B7DDE15A714588C * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m14667C6DE189228D10F73820F9A5C6F0D7B43EC1_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Decimal>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_mB3FD52352C559274085840982E1669C67C676C09_gshared (Transformer_1_tE3062CB768903660C5318F9D9B7DDE15A714588C * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Diagnostics.Tracing.EmptyStruct>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_mA769F9A7259E4D11CFA531848C01385BA6B5EB33_gshared (Transformer_1_tBD1BBF19FDEEE663FCCC49AC10AADA1B059D325C * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Diagnostics.Tracing.EmptyStruct>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mEEBD56A731F90C3B38D47A8CB49EB47712185632_gshared (Transformer_1_tBD1BBF19FDEEE663FCCC49AC10AADA1B059D325C * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Diagnostics.Tracing.EmptyStruct>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mCF90E62C1617AC56FB45D035305FBCC38C979B17_gshared (Transformer_1_tBD1BBF19FDEEE663FCCC49AC10AADA1B059D325C * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mCF90E62C1617AC56FB45D035305FBCC38C979B17_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Diagnostics.Tracing.EmptyStruct>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_mBA2D64578F495275CA062BA41ED2E84534704501_gshared (Transformer_1_tBD1BBF19FDEEE663FCCC49AC10AADA1B059D325C * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Double>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m12F2B543CC12F10116CD3CC99BDC9231F0E78C61_gshared (Transformer_1_tFA2CCE2417FF56944AD841B7ED04360314120497 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Double>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m1808327060E0A4F11F90A19C6EF11B859E7F5CFE_gshared (Transformer_1_tFA2CCE2417FF56944AD841B7ED04360314120497 * __this, double ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (double, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, double, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (double, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, double >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, double >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, double >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, double >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, double, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Double>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m84A84B52328E7415423A297B236A81D3BBBAD71F_gshared (Transformer_1_tFA2CCE2417FF56944AD841B7ED04360314120497 * __this, double ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m84A84B52328E7415423A297B236A81D3BBBAD71F_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Double>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m430D7D86B2A508A8675B86D9901BCB3C8F03EB3A_gshared (Transformer_1_tFA2CCE2417FF56944AD841B7ED04360314120497 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Guid>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m0359DCE983489A9EB580010B84507FB9A70DF9AF_gshared (Transformer_1_t10C9C25A5618D14E4E001BDF9E20419A10A6DFB9 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Guid>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m6E9DD83E4F21E7D7A0362018235F9EAD05A21685_gshared (Transformer_1_t10C9C25A5618D14E4E001BDF9E20419A10A6DFB9 * __this, Guid_t  ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (Guid_t , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, Guid_t , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (Guid_t , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, Guid_t  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, Guid_t  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, Guid_t  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, Guid_t  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, Guid_t , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Guid>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m4E95A6BC42273EBC1855FAF723B5C480E5865F32_gshared (Transformer_1_t10C9C25A5618D14E4E001BDF9E20419A10A6DFB9 * __this, Guid_t  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m4E95A6BC42273EBC1855FAF723B5C480E5865F32_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Guid_t_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Guid>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_mE5B209D377CFCA865A1259CD2F2E305B2216FEAD_gshared (Transformer_1_t10C9C25A5618D14E4E001BDF9E20419A10A6DFB9 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m8A7D544DA6E226CF88CC7F19A4B82059898D5DF2_gshared (Transformer_1_tF7F040CDF505A8BEF12BEBEAA31FFD9BD43FF8F8 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int16>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m83782027CD533AFEB73FCC1E9502FEEC83D24FE3_gshared (Transformer_1_tF7F040CDF505A8BEF12BEBEAA31FFD9BD43FF8F8 * __this, int16_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (int16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, int16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (int16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, int16_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, int16_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, int16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, int16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, int16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int16>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m3A2BD0E0D53C906CB9F0AB3690B35E035EBC44E1_gshared (Transformer_1_tF7F040CDF505A8BEF12BEBEAA31FFD9BD43FF8F8 * __this, int16_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m3A2BD0E0D53C906CB9F0AB3690B35E035EBC44E1_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int16>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m651DEB406557652E0EDFA8925A69BF5DA79AF9F3_gshared (Transformer_1_tF7F040CDF505A8BEF12BEBEAA31FFD9BD43FF8F8 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m4522407E0386904145A8B24105667D26E49BC7F9_gshared (Transformer_1_tA741C25CF64E7496C977BB826C7D60FA98E8C970 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int32>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m0451AD680F43E14B28DD5B3FB629255EC3A9D7F7_gshared (Transformer_1_tA741C25CF64E7496C977BB826C7D60FA98E8C970 * __this, int32_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (int32_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, int32_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (int32_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, int32_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, int32_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, int32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, int32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, int32_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int32>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m1C59FE72F82A7FA4F4F290546A12356B6F352A45_gshared (Transformer_1_tA741C25CF64E7496C977BB826C7D60FA98E8C970 * __this, int32_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m1C59FE72F82A7FA4F4F290546A12356B6F352A45_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int32_t585191389E07734F19F3156FF88FB3EF4800D102_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int32>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m438B98FE5586929D66D47A8C036531BBAE21C810_gshared (Transformer_1_tA741C25CF64E7496C977BB826C7D60FA98E8C970 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m1544DD604ECF8FE7384ACCD32B230112E644D217_gshared (Transformer_1_t23A5C3116CBF683F9F68EE3DDFF0E12802831AC4 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int64>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m49174F0379E76C4A5176A3336D6CCAD19405C94F_gshared (Transformer_1_t23A5C3116CBF683F9F68EE3DDFF0E12802831AC4 * __this, int64_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (int64_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, int64_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (int64_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, int64_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, int64_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, int64_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, int64_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, int64_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int64>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m46B7D9AF2C09758826F632F54EE0082B7AC4B10C_gshared (Transformer_1_t23A5C3116CBF683F9F68EE3DDFF0E12802831AC4 * __this, int64_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m46B7D9AF2C09758826F632F54EE0082B7AC4B10C_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Int64>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_mFC63BC9F9C86023E2D1B1679B9C8A0A7D7EF2E47_gshared (Transformer_1_t23A5C3116CBF683F9F68EE3DDFF0E12802831AC4 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.IntPtr>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m8FD42856B7E900793AF751CC81C4577263E249FF_gshared (Transformer_1_tDEDEB8C2D8BA02B307B0EDD7EEC5D44DDFB05231 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.IntPtr>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mF4C9527C638DBEAF6AE762A50A27B816108ED51E_gshared (Transformer_1_tDEDEB8C2D8BA02B307B0EDD7EEC5D44DDFB05231 * __this, intptr_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, intptr_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, intptr_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, intptr_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, intptr_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, intptr_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, intptr_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.IntPtr>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m179C101C40F1E088BAFC146979222119F5AE7F72_gshared (Transformer_1_tDEDEB8C2D8BA02B307B0EDD7EEC5D44DDFB05231 * __this, intptr_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m179C101C40F1E088BAFC146979222119F5AE7F72_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(IntPtr_t_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.IntPtr>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m7A8D031B887815DD0AFC5C1474494035DC845915_gshared (Transformer_1_tDEDEB8C2D8BA02B307B0EDD7EEC5D44DDFB05231 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Object>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m49ED9D454E8C68D14A1331B1F0832762870EE241_gshared (Transformer_1_t026BF5A032AD1B2D3EEDA845C07E1202DFCBF82F * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Object>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m62D4CCCA9591F9CF30AEED64C77861AFCCF53AA7_gshared (Transformer_1_t026BF5A032AD1B2D3EEDA845C07E1202DFCBF82F * __this, RuntimeObject * ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (RuntimeObject *, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, RuntimeObject *, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else if (___parameterCount != 1)
-		{
-			// open
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker0< int16_t >::Invoke(targetMethod, ___value0);
-					else
-						result = GenericVirtFuncInvoker0< int16_t >::Invoke(targetMethod, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker0< int16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), ___value0);
-					else
-						result = VirtFuncInvoker0< int16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), ___value0);
-				}
-			}
-			else
-			{
-				typedef int16_t (*FunctionPointerType) (RuntimeObject *, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject *, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, RuntimeObject * >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, RuntimeObject * >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, RuntimeObject * >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, RuntimeObject * >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, RuntimeObject *, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Object>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m8E81EF5D305E6DDED202DE2BB8563C859B55CB3C_gshared (Transformer_1_t026BF5A032AD1B2D3EEDA845C07E1202DFCBF82F * __this, RuntimeObject * ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	void *__d_args[2] = {0};
-	__d_args[0] = ___value0;
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Object>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m1AC0AAFD5FD7E1EC11E9EC64DD903AA4205870B5_gshared (Transformer_1_t026BF5A032AD1B2D3EEDA845C07E1202DFCBF82F * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.SByte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_mEF59CEEAA66079F6B2B8F489145E34636489D9E8_gshared (Transformer_1_t1358C14103D206B57FA822096A13BEDC1A7A4048 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.SByte>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m5ACFA12AC7B9A0A408DBC6C9CEC01C80EDFFAB42_gshared (Transformer_1_t1358C14103D206B57FA822096A13BEDC1A7A4048 * __this, int8_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (int8_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, int8_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (int8_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, int8_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, int8_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, int8_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, int8_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, int8_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.SByte>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m35CF4CDA6AC7DBB22A438C84A48F9D3B38EC22A9_gshared (Transformer_1_t1358C14103D206B57FA822096A13BEDC1A7A4048 * __this, int8_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m35CF4CDA6AC7DBB22A438C84A48F9D3B38EC22A9_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(SByte_t9070AEA2966184235653CB9B4D33B149CDA831DF_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.SByte>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m01D5645059A66EA1B9CFC37777B8DDB481152940_gshared (Transformer_1_t1358C14103D206B57FA822096A13BEDC1A7A4048 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Single>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m0F923E53B76AD2A3194FE5A5B310E8EC10C52F58_gshared (Transformer_1_t761E0F084572634E94674D7C1912B56771C73045 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Single>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mFD70B09A2A04528EF8B714E5DBDD1D07FC71FEAD_gshared (Transformer_1_t761E0F084572634E94674D7C1912B56771C73045 * __this, float ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (float, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, float, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (float, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, float >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, float >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, float >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, float >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, float, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Single>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mFF8F67940FA19F9806C8403604B8C86B9539A91A_gshared (Transformer_1_t761E0F084572634E94674D7C1912B56771C73045 * __this, float ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mFF8F67940FA19F9806C8403604B8C86B9539A91A_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.Single>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m418BDE7F7D54D52895B079EC1B035534B2F7574F_gshared (Transformer_1_t761E0F084572634E94674D7C1912B56771C73045 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.TimeSpan>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m840A1BA665B0D28A920E3C5CBE131CBFA838BE71_gshared (Transformer_1_tD23E5E6A1A391F332A34AA4663D09426093C002A * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.TimeSpan>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m72EA95BC499FCA668BECB2CF12BAD51312D6151F_gshared (Transformer_1_tD23E5E6A1A391F332A34AA4663D09426093C002A * __this, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.TimeSpan>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mED5F77E080D38591B8DFD461680CE486FD41C5CB_gshared (Transformer_1_tD23E5E6A1A391F332A34AA4663D09426093C002A * __this, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mED5F77E080D38591B8DFD461680CE486FD41C5CB_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.TimeSpan>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m6D8C2664B9A5EBEA6A358198C0DA823A11DE8990_gshared (Transformer_1_tD23E5E6A1A391F332A34AA4663D09426093C002A * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m28EBCEED5ABF1FDC6FC9261CDE1EF7E74961773A_gshared (Transformer_1_tD6009487878B22E34FDE5E3FBDC4B4E93CF5BC77 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt16>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mD6BE1C80ABA470B8084040A6C2BB8BB57A420C0A_gshared (Transformer_1_tD6009487878B22E34FDE5E3FBDC4B4E93CF5BC77 * __this, uint16_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (uint16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, uint16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (uint16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, uint16_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, uint16_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, uint16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, uint16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, uint16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt16>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m5520D2FE5A03F2AE257D67160214A3A5BD17ACA8_gshared (Transformer_1_tD6009487878B22E34FDE5E3FBDC4B4E93CF5BC77 * __this, uint16_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m5520D2FE5A03F2AE257D67160214A3A5BD17ACA8_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(UInt16_tAE45CEF73BF720100519F6867F32145D075F928E_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt16>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m219AEEB14D35BB48F11F1994FE4C77ACF512A35E_gshared (Transformer_1_tD6009487878B22E34FDE5E3FBDC4B4E93CF5BC77 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m143983BFA6CDC74167290DB9428748E2C78D311F_gshared (Transformer_1_t385ECD51AD4E2A1E86876F87BF89844FDE07DD32 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt32>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mDBDAA9196A182610EBC7A1A4706CD199644E70C1_gshared (Transformer_1_t385ECD51AD4E2A1E86876F87BF89844FDE07DD32 * __this, uint32_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (uint32_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, uint32_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (uint32_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, uint32_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, uint32_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, uint32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, uint32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, uint32_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt32>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m7C90AAA2C504B96292C1D6FB7757982ED568862C_gshared (Transformer_1_t385ECD51AD4E2A1E86876F87BF89844FDE07DD32 * __this, uint32_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m7C90AAA2C504B96292C1D6FB7757982ED568862C_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt32>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_mCEC3A3A056F80C6F8BB7E4ACC09B60E6B45E39F4_gshared (Transformer_1_t385ECD51AD4E2A1E86876F87BF89844FDE07DD32 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m710BA9600AB5DEFAEC50C8BBFB0E12169F7849CB_gshared (Transformer_1_t0698CC99B4FA18A0050698BCB1D646E8C1C22984 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt64>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_m6C6F93DE59B37159512EAAA2A7406FAC56BF3BB9_gshared (Transformer_1_t0698CC99B4FA18A0050698BCB1D646E8C1C22984 * __this, uint64_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (uint64_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, uint64_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (uint64_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, uint64_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, uint64_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, uint64_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, uint64_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, uint64_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt64>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m9AAB719959BB4361265D55256DFCDDA431D503BE_gshared (Transformer_1_t0698CC99B4FA18A0050698BCB1D646E8C1C22984 * __this, uint64_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m9AAB719959BB4361265D55256DFCDDA431D503BE_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UInt64>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m54010C21AB039F496BB20DF6A1A7E103A827C666_gshared (Transformer_1_t0698CC99B4FA18A0050698BCB1D646E8C1C22984 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UIntPtr>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m980B59FDA5016EED812006A9AFE87D2D27D40F35_gshared (Transformer_1_t6585D4102CCBAE872252AC5E0732CC8EF79DBB20 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UIntPtr>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_Invoke_mD40ED47C94D4FFCBB30500B907F7873C3CAC23C9_gshared (Transformer_1_t6585D4102CCBAE872252AC5E0732CC8EF79DBB20 * __this, uintptr_t ___value0, const RuntimeMethod* method)
-{
-	int16_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int16_t (*FunctionPointerType) (uintptr_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int16_t (*FunctionPointerType) (void*, uintptr_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int16_t (*FunctionPointerType) (uintptr_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int16_t, uintptr_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int16_t, uintptr_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int16_t, uintptr_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int16_t, uintptr_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int16_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int16_t (*FunctionPointerType) (void*, uintptr_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UIntPtr>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m849C3840E62DDB0C328B60CD958150F0AEFC0DAE_gshared (Transformer_1_t6585D4102CCBAE872252AC5E0732CC8EF79DBB20 * __this, uintptr_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m849C3840E62DDB0C328B60CD958150F0AEFC0DAE_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(UIntPtr_t_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int16,System.UIntPtr>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int16_t Transformer_1_EndInvoke_m9DE6542F10953D67DDF2DC6A14564368F060438D_gshared (Transformer_1_t6585D4102CCBAE872252AC5E0732CC8EF79DBB20 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int16_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Boolean>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m88F54CD32EC79D762C1F23C179097DCDA18FE93B_gshared (Transformer_1_t2DBEC8D0800B8F041E03F876ABF5AF7D3DFE5D7B * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Boolean>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m63BEBD96AAC9E439D6CEE71CB5B175170689AA71_gshared (Transformer_1_t2DBEC8D0800B8F041E03F876ABF5AF7D3DFE5D7B * __this, bool ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (bool, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, bool, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (bool, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, bool >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, bool >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, bool >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, bool >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, bool, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Boolean>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mE7EC44E59D54C9D4FC32357CE56E33245E5B0668_gshared (Transformer_1_t2DBEC8D0800B8F041E03F876ABF5AF7D3DFE5D7B * __this, bool ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mE7EC44E59D54C9D4FC32357CE56E33245E5B0668_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Boolean_tB53F6830F670160873277339AA58F15CAED4399C_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Boolean>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_mE35BAE68A90189B6AB37F3AEF1FC6709800B20DD_gshared (Transformer_1_t2DBEC8D0800B8F041E03F876ABF5AF7D3DFE5D7B * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Byte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m1623FF9C1177AC138D1EC91F99F7B8A7FD70FD49_gshared (Transformer_1_t2EE6D7CD39A5C2027ECB941A3759A9EBA3F0BB0C * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Byte>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mEA1E2C49338971B81A917FC28B0441F0A35BBB46_gshared (Transformer_1_t2EE6D7CD39A5C2027ECB941A3759A9EBA3F0BB0C * __this, uint8_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (uint8_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, uint8_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (uint8_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, uint8_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, uint8_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, uint8_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, uint8_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, uint8_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Byte>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m530844CF63AFDB7CECAE59BA87E5048F0E742294_gshared (Transformer_1_t2EE6D7CD39A5C2027ECB941A3759A9EBA3F0BB0C * __this, uint8_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m530844CF63AFDB7CECAE59BA87E5048F0E742294_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Byte>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m2F54AE30850435ED3C199D0133B351666678B3A1_gshared (Transformer_1_t2EE6D7CD39A5C2027ECB941A3759A9EBA3F0BB0C * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Char>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m60F5FBEDE0B07A95D7C8B02162CC0806DD942F69_gshared (Transformer_1_t79A0EA03C0758462B77611F0C5FF7EB4477F9D95 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Char>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m59893579A40029A058BE992B51790598667930E9_gshared (Transformer_1_t79A0EA03C0758462B77611F0C5FF7EB4477F9D95 * __this, Il2CppChar ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (Il2CppChar, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, Il2CppChar, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (Il2CppChar, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, Il2CppChar >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, Il2CppChar >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, Il2CppChar >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, Il2CppChar >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, Il2CppChar, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Char>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m59DEAF55D1C3932CB6BECC23ED68CE51CAE881B1_gshared (Transformer_1_t79A0EA03C0758462B77611F0C5FF7EB4477F9D95 * __this, Il2CppChar ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m59DEAF55D1C3932CB6BECC23ED68CE51CAE881B1_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Char>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m337E7F2C596A610FD7C6A19797B5AC90C3304F3E_gshared (Transformer_1_t79A0EA03C0758462B77611F0C5FF7EB4477F9D95 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m72DC41FDA7E8A29D8EF14F8262EB626FA9F41409_gshared (Transformer_1_t3FB65B12F9B30A5AA121C6225ABBD98671D135DE * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mE7601F2AA891B4F3C53493B6B5CFE32DA4ECBC07_gshared (Transformer_1_t3FB65B12F9B30A5AA121C6225ABBD98671D135DE * __this, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m8DE1A531673B1432BDF2C16866FD6D13953E9A99_gshared (Transformer_1_t3FB65B12F9B30A5AA121C6225ABBD98671D135DE * __this, KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m8DE1A531673B1432BDF2C16866FD6D13953E9A99_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m3EDAF5A222D70B14E55FD6E63BA99640845DACDA_gshared (Transformer_1_t3FB65B12F9B30A5AA121C6225ABBD98671D135DE * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTime>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m8493A9EF6F1E920C7B952674BABB30C4962CB9D9_gshared (Transformer_1_t00DC76E5BE87873705F91E95AEF9B620DA10C64A * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTime>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mF59338950B1640D2DFC0121C678ECCA8B726C481_gshared (Transformer_1_t00DC76E5BE87873705F91E95AEF9B620DA10C64A * __this, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTime>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m90A9C1B1F497A33BDE2099F926FE097FBC0932C6_gshared (Transformer_1_t00DC76E5BE87873705F91E95AEF9B620DA10C64A * __this, DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m90A9C1B1F497A33BDE2099F926FE097FBC0932C6_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTime>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m034150F9311B00E759715B5647BA3E7188AB13A1_gshared (Transformer_1_t00DC76E5BE87873705F91E95AEF9B620DA10C64A * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTimeOffset>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m48FE2B91BD776FA9B4C6986D064C3BCDF4347AE0_gshared (Transformer_1_tE5EF3DB7DB9777B2A122766AB8A2227D1C094B79 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTimeOffset>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m462C70611D951505D2C4D96DBAF7DA5FAB0EAEB7_gshared (Transformer_1_tE5EF3DB7DB9777B2A122766AB8A2227D1C094B79 * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTimeOffset>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m94FC28813E682B4FAC47CAAC5561D5860FD755FC_gshared (Transformer_1_tE5EF3DB7DB9777B2A122766AB8A2227D1C094B79 * __this, DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m94FC28813E682B4FAC47CAAC5561D5860FD755FC_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.DateTimeOffset>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m638034429B674BE4C80CEBDB5AA62D5BF20608BF_gshared (Transformer_1_tE5EF3DB7DB9777B2A122766AB8A2227D1C094B79 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Decimal>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m7B456B28C3510E2CB6ECB65D7F130F3F57259521_gshared (Transformer_1_t25C83F04D27EBB3953BD3252D27F944B7081EFD4 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Decimal>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m99AE375ADFEE937931BBE913186B77AD51C0AC2A_gshared (Transformer_1_t25C83F04D27EBB3953BD3252D27F944B7081EFD4 * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Decimal>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m949B7FB337F6D565A8532C63F57A0430EFD250E3_gshared (Transformer_1_t25C83F04D27EBB3953BD3252D27F944B7081EFD4 * __this, Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m949B7FB337F6D565A8532C63F57A0430EFD250E3_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Decimal>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m6F2876896BA6E851427F5BA73B9AD491BBE5B3A3_gshared (Transformer_1_t25C83F04D27EBB3953BD3252D27F944B7081EFD4 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Diagnostics.Tracing.EmptyStruct>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m49CA77E35230F2ECEAB57B365F599F14113B68A4_gshared (Transformer_1_t0FBAD50C82E7A4C7D93A7E4DAE1B7765DEC256E8 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Diagnostics.Tracing.EmptyStruct>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mA30A3ABF3BB129483BBE791011F46269790CE9FF_gshared (Transformer_1_t0FBAD50C82E7A4C7D93A7E4DAE1B7765DEC256E8 * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Diagnostics.Tracing.EmptyStruct>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mCAE637BC35F680E42B85BBDD3D8D389299667A62_gshared (Transformer_1_t0FBAD50C82E7A4C7D93A7E4DAE1B7765DEC256E8 * __this, EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mCAE637BC35F680E42B85BBDD3D8D389299667A62_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(EmptyStruct_tA4DC90792FEDB6D602D5AF5FBA9B0B8FE7C3D082_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Diagnostics.Tracing.EmptyStruct>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m708A366E731C2F21C1CFB58119EB14C5667D9043_gshared (Transformer_1_t0FBAD50C82E7A4C7D93A7E4DAE1B7765DEC256E8 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Double>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m6B38C59FD54B222155E4417788FC638ACEF57065_gshared (Transformer_1_t68826869D55A324A082EE643E06DFE0549C43F1B * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Double>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mBA0EF409107603E2D8E6E6994992707D13AC9846_gshared (Transformer_1_t68826869D55A324A082EE643E06DFE0549C43F1B * __this, double ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (double, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, double, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (double, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, double >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, double >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, double >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, double >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, double, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Double>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m846491011F4B4F436B2E6D3FCC88183DB872F429_gshared (Transformer_1_t68826869D55A324A082EE643E06DFE0549C43F1B * __this, double ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m846491011F4B4F436B2E6D3FCC88183DB872F429_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Double>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m4D8BDDB5E7C3DDCFECA14A51E7CF73B8985E2F63_gshared (Transformer_1_t68826869D55A324A082EE643E06DFE0549C43F1B * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Guid>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_mE32D1CAD8A40EF4D7A4D8AA14DCCE5A771C9B2F5_gshared (Transformer_1_tAE2C376EED3A46831CB52406C90F7FF43F1F9F05 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Guid>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mAB6C5CFF28DA537A38CA7FE856DF2AC60CECBC43_gshared (Transformer_1_tAE2C376EED3A46831CB52406C90F7FF43F1F9F05 * __this, Guid_t  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (Guid_t , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, Guid_t , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (Guid_t , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, Guid_t  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, Guid_t  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, Guid_t  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, Guid_t  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, Guid_t , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Guid>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mF6683D2AF4B7874ECB1AF8A69F827721C073E4A2_gshared (Transformer_1_tAE2C376EED3A46831CB52406C90F7FF43F1F9F05 * __this, Guid_t  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mF6683D2AF4B7874ECB1AF8A69F827721C073E4A2_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Guid_t_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Guid>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m67434B1DDAD5743D23DA70AB1BE6017395B7F885_gshared (Transformer_1_tAE2C376EED3A46831CB52406C90F7FF43F1F9F05 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_mF93140F59EFBB085099FB5AC9FCBC800AA74E030_gshared (Transformer_1_t09EADD81A9C2CA1C3043FA5CD6706CA1530666E0 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int16>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mF8B18DFFE4BB05C39177328E9E2FDD6A60483CB7_gshared (Transformer_1_t09EADD81A9C2CA1C3043FA5CD6706CA1530666E0 * __this, int16_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (int16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, int16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (int16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, int16_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, int16_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, int16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, int16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, int16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int16>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m95A4B5E1CD1C42C3D55352E44A7B676589549E47_gshared (Transformer_1_t09EADD81A9C2CA1C3043FA5CD6706CA1530666E0 * __this, int16_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m95A4B5E1CD1C42C3D55352E44A7B676589549E47_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int16>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_mCBAABC5183CC0D26BAFCC0A079EE153E61D7F93A_gshared (Transformer_1_t09EADD81A9C2CA1C3043FA5CD6706CA1530666E0 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_mF8FF036656F1432FC34254DB23E77F525414C36A_gshared (Transformer_1_t9E7C8EB2E7DA583C3C11956C5E93F3D313CE08D6 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int32>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m7D3AFD93BD9C46AC679E0F08AAAA07F2F992F7C6_gshared (Transformer_1_t9E7C8EB2E7DA583C3C11956C5E93F3D313CE08D6 * __this, int32_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (int32_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, int32_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (int32_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, int32_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, int32_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, int32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, int32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, int32_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int32>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mDF3C5B06D803C3590EF14ED489638694164D9BC0_gshared (Transformer_1_t9E7C8EB2E7DA583C3C11956C5E93F3D313CE08D6 * __this, int32_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mDF3C5B06D803C3590EF14ED489638694164D9BC0_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int32_t585191389E07734F19F3156FF88FB3EF4800D102_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int32>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m20A2852596E670DE3E9C27AAB847651AE1846D88_gshared (Transformer_1_t9E7C8EB2E7DA583C3C11956C5E93F3D313CE08D6 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_mE78B9415CEF89C85652C7A007602DE8CBD66794C_gshared (Transformer_1_t8B62B5B7F2FBA49FF26EC65A644535089EF385F2 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int64>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m42A8006EBBEA10B6FEDCC6CACB4829EDDBAD7856_gshared (Transformer_1_t8B62B5B7F2FBA49FF26EC65A644535089EF385F2 * __this, int64_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (int64_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, int64_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (int64_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, int64_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, int64_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, int64_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, int64_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, int64_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int64>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mAD8CEDB012593281F1F167278D7D974980B3D6B4_gshared (Transformer_1_t8B62B5B7F2FBA49FF26EC65A644535089EF385F2 * __this, int64_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mAD8CEDB012593281F1F167278D7D974980B3D6B4_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Int64>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_mA0E35F9D852F0A6B7F9617BAFDAD15A9765A9403_gshared (Transformer_1_t8B62B5B7F2FBA49FF26EC65A644535089EF385F2 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.IntPtr>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m9D73B2D4BB76335BB63E2E155412DEC07AD4F20F_gshared (Transformer_1_tE65E26BDA2D86514F0E4F7DCA655FD6391C3498A * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.IntPtr>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m1941DBBE3EBAB6D6AB683F72B14996E8FAB8B7FD_gshared (Transformer_1_tE65E26BDA2D86514F0E4F7DCA655FD6391C3498A * __this, intptr_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, intptr_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (intptr_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, intptr_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, intptr_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, intptr_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, intptr_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, intptr_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.IntPtr>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_mBC3FA46D1FC2CC283A633DBB0D6113F1ED12E0E7_gshared (Transformer_1_tE65E26BDA2D86514F0E4F7DCA655FD6391C3498A * __this, intptr_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_mBC3FA46D1FC2CC283A633DBB0D6113F1ED12E0E7_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(IntPtr_t_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.IntPtr>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m36E6C0D66B74EF24BFFB0D75617999FA4D8F8F60_gshared (Transformer_1_tE65E26BDA2D86514F0E4F7DCA655FD6391C3498A * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Object>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m6B3E17DAE9F321343E785BF613AF6EEC2526C895_gshared (Transformer_1_t65992AEC496277643CBC80A2F9BED723063EB848 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Object>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m1135A87946CC7634250AB78E55644856E7712FD7_gshared (Transformer_1_t65992AEC496277643CBC80A2F9BED723063EB848 * __this, RuntimeObject * ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (RuntimeObject *, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, RuntimeObject *, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else if (___parameterCount != 1)
-		{
-			// open
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker0< int32_t >::Invoke(targetMethod, ___value0);
-					else
-						result = GenericVirtFuncInvoker0< int32_t >::Invoke(targetMethod, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker0< int32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), ___value0);
-					else
-						result = VirtFuncInvoker0< int32_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), ___value0);
-				}
-			}
-			else
-			{
-				typedef int32_t (*FunctionPointerType) (RuntimeObject *, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject *, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, RuntimeObject * >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, RuntimeObject * >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, RuntimeObject * >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, RuntimeObject * >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, RuntimeObject *, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Object>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m53D5D52FA2E8989F7852BD2D36B1F53C99140E01_gshared (Transformer_1_t65992AEC496277643CBC80A2F9BED723063EB848 * __this, RuntimeObject * ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	void *__d_args[2] = {0};
-	__d_args[0] = ___value0;
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Object>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m6B2AFC0EE5CDCB65F8FF1DC4E410904491321089_gshared (Transformer_1_t65992AEC496277643CBC80A2F9BED723063EB848 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.SByte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m2DF9127B6B1B4463DCB6C10DB22BF6DCB7F55157_gshared (Transformer_1_t8A499D6FEF7443CA4CE5419B243505BB61DE7DEF * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.SByte>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_mED250AA2266DA7E2B0994F4EC24E9B367EB44FCE_gshared (Transformer_1_t8A499D6FEF7443CA4CE5419B243505BB61DE7DEF * __this, int8_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (int8_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, int8_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (int8_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, int8_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, int8_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, int8_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, int8_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, int8_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.SByte>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m3FCE17FE4DC6D093C9BEF139713486034C6871AE_gshared (Transformer_1_t8A499D6FEF7443CA4CE5419B243505BB61DE7DEF * __this, int8_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m3FCE17FE4DC6D093C9BEF139713486034C6871AE_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(SByte_t9070AEA2966184235653CB9B4D33B149CDA831DF_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.SByte>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_mEF4FDDDDA65C81FD7024FDCC01437385123AF2C9_gshared (Transformer_1_t8A499D6FEF7443CA4CE5419B243505BB61DE7DEF * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Single>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m9348519CB93D9E97BD8D3BC9DCDE7320EB450660_gshared (Transformer_1_t69D9451801937FE2AFF99FCCE268AA878D643D9B * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Single>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m3AECD24A19421061E275D5D2EB518C0279344E8F_gshared (Transformer_1_t69D9451801937FE2AFF99FCCE268AA878D643D9B * __this, float ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (float, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, float, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (float, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, float >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, float >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, float >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, float >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, float, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Single>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m0A718EB4750A9F38DC040CF973161A018D8D59D1_gshared (Transformer_1_t69D9451801937FE2AFF99FCCE268AA878D643D9B * __this, float ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m0A718EB4750A9F38DC040CF973161A018D8D59D1_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.Single>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_mFBBA44B70AF004852B3CC953FF6B448235B61C4C_gshared (Transformer_1_t69D9451801937FE2AFF99FCCE268AA878D643D9B * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.TimeSpan>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m1605FDE5588437BBDEB50ABF3F1D24CA7C8C8A66_gshared (Transformer_1_tE86E929A9B1ED9F0643091DE20F815B92553CA94 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.TimeSpan>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m77E5AA8AE6ED2890CB486442EBBCB115DAABFFA8_gshared (Transformer_1_tE86E929A9B1ED9F0643091DE20F815B92553CA94 * __this, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 , const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.TimeSpan>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m9D52257029C093EF725542030DAE28CF486B7760_gshared (Transformer_1_tE86E929A9B1ED9F0643091DE20F815B92553CA94 * __this, TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m9D52257029C093EF725542030DAE28CF486B7760_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.TimeSpan>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m5E5B97431CEC55C03A084C8DCF60B1F2F75263FB_gshared (Transformer_1_tE86E929A9B1ED9F0643091DE20F815B92553CA94 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.UInt16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transformer_1__ctor_m9E09891A3226B8056E3950AFE486FBE246743822_gshared (Transformer_1_t4021B15333DAA448023DFF6ED2E859037D86D3D9 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method)
-{
-	__this->set_method_ptr_0(il2cpp_codegen_get_method_pointer((RuntimeMethod*)___method1));
-	__this->set_method_3(___method1);
-	__this->set_m_target_2(___object0);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.UInt16>::Invoke(ValueType)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_Invoke_m8BF1E77FD6E84EE04D220D9C79BF9080DE02A68D_gshared (Transformer_1_t4021B15333DAA448023DFF6ED2E859037D86D3D9 * __this, uint16_t ___value0, const RuntimeMethod* method)
-{
-	int32_t result = 0;
-	DelegateU5BU5D_tDFCDEE2A6322F96C0FE49AF47E9ADB8C4B294E86* delegateArrayToInvoke = __this->get_delegates_11();
-	Delegate_t** delegatesToInvoke;
-	il2cpp_array_size_t length;
-	if (delegateArrayToInvoke != NULL)
-	{
-		length = delegateArrayToInvoke->max_length;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(delegateArrayToInvoke->GetAddressAtUnchecked(0));
-	}
-	else
-	{
-		length = 1;
-		delegatesToInvoke = reinterpret_cast<Delegate_t**>(&__this);
-	}
-
-	for (il2cpp_array_size_t i = 0; i < length; i++)
-	{
-		Delegate_t* currentDelegate = delegatesToInvoke[i];
-		Il2CppMethodPointer targetMethodPointer = currentDelegate->get_method_ptr_0();
-		RuntimeObject* targetThis = currentDelegate->get_m_target_2();
-		RuntimeMethod* targetMethod = (RuntimeMethod*)(currentDelegate->get_method_3());
-		if (!il2cpp_codegen_method_is_virtual(targetMethod))
-		{
-			il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found(targetMethod);
-		}
-		bool ___methodIsStatic = MethodIsStatic(targetMethod);
-		int ___parameterCount = il2cpp_codegen_method_parameter_count(targetMethod);
-		if (___methodIsStatic)
-		{
-			if (___parameterCount == 1)
-			{
-				// open
-				typedef int32_t (*FunctionPointerType) (uint16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-			}
-			else
-			{
-				// closed
-				typedef int32_t (*FunctionPointerType) (void*, uint16_t, const RuntimeMethod*);
-				result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-			}
-		}
-		else
-		{
-			// closed
-			if (il2cpp_codegen_method_is_virtual(targetMethod) && !il2cpp_codegen_object_is_of_sealed_type(targetThis) && il2cpp_codegen_delegate_has_invoker((Il2CppDelegate*)__this))
-			{
-				if (targetThis == NULL)
-				{
-					typedef int32_t (*FunctionPointerType) (uint16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(___value0, targetMethod);
-				}
-				else if (il2cpp_codegen_method_is_generic_instance(targetMethod))
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = GenericInterfaceFuncInvoker1< int32_t, uint16_t >::Invoke(targetMethod, targetThis, ___value0);
-					else
-						result = GenericVirtFuncInvoker1< int32_t, uint16_t >::Invoke(targetMethod, targetThis, ___value0);
-				}
-				else
-				{
-					if (il2cpp_codegen_method_is_interface_method(targetMethod))
-						result = InterfaceFuncInvoker1< int32_t, uint16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), il2cpp_codegen_method_get_declaring_type(targetMethod), targetThis, ___value0);
-					else
-						result = VirtFuncInvoker1< int32_t, uint16_t >::Invoke(il2cpp_codegen_method_get_slot(targetMethod), targetThis, ___value0);
-				}
-			}
-			else
-			{
-				if (targetThis == NULL && il2cpp_codegen_class_is_value_type(il2cpp_codegen_method_get_declaring_type(targetMethod)))
-				{
-					typedef int32_t (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)((reinterpret_cast<RuntimeObject*>(&___value0) - 1), targetMethod);
-				}
-				else
-				{
-					typedef int32_t (*FunctionPointerType) (void*, uint16_t, const RuntimeMethod*);
-					result = ((FunctionPointerType)targetMethodPointer)(targetThis, ___value0, targetMethod);
-				}
-			}
-		}
-	}
-	return result;
-}
-// System.IAsyncResult System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.UInt16>::BeginInvoke(ValueType,System.AsyncCallback,System.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Transformer_1_BeginInvoke_m57251C0724D1F40FDAB4F1CB36BE02B289BAF8FD_gshared (Transformer_1_t4021B15333DAA448023DFF6ED2E859037D86D3D9 * __this, uint16_t ___value0, AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4 * ___callback1, RuntimeObject * ___object2, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (Transformer_1_BeginInvoke_m57251C0724D1F40FDAB4F1CB36BE02B289BAF8FD_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	void *__d_args[2] = {0};
-	__d_args[0] = Box(UInt16_tAE45CEF73BF720100519F6867F32145D075F928E_il2cpp_TypeInfo_var, &___value0);
-	return (RuntimeObject*)il2cpp_codegen_delegate_begin_invoke((RuntimeDelegate*)__this, __d_args, (RuntimeDelegate*)___callback1, (RuntimeObject*)___object2);
-}
-// UnderlyingType System.Diagnostics.Tracing.EnumHelper`1_Transformer`1<System.Int32,System.UInt16>::EndInvoke(System.IAsyncResult)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Transformer_1_EndInvoke_m2E2D083DCF52CA02F9EB52E6F2A1A81D9A1568CA_gshared (Transformer_1_t4021B15333DAA448023DFF6ED2E859037D86D3D9 * __this, RuntimeObject* ___result0, const RuntimeMethod* method)
-{
-	RuntimeObject *__result = il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___result0, 0);
-	return *(int32_t*)UnBox ((RuntimeObject*)__result);
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
