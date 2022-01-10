@@ -40,8 +40,10 @@ public class WeaponController : MonoBehaviour
     //
     private RaycastHit hit;
     private AudioSource audioSource;
+    private bool isAiming;
     public Vector3 AdsVector { get { return ADSvector; } }
     public Vector3 HipVector { get { return HIPvector; } }
+
 
     void Init()
     {
@@ -76,7 +78,7 @@ public class WeaponController : MonoBehaviour
     }
     private void AimDownSights()
     {
-        if (Input.GetMouseButton(1))
+        if (Input.GetMouseButton(1) && !firstPersonMovement.IsSprinting)
         {
             WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
@@ -84,7 +86,7 @@ public class WeaponController : MonoBehaviour
             recoilScript.aim = true;
           
         }
-        else if (!Input.GetMouseButton(1))
+        else
         {
             WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
             mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
@@ -129,8 +131,10 @@ public class WeaponController : MonoBehaviour
     {
         weaponAnimator.SetFloat("WalkingSpeed", firstPersonMovement.AnimatorSpeed);
         weaponAnimator.SetBool("IsWalking", firstPersonMovement.IsWalking);
+        weaponAnimator.SetBool("IsSprinting", firstPersonMovement.IsSprinting);
         Shoot();
         Sway();
+        Debug.Log(isAiming);
 
     }
     private void FixedUpdate()

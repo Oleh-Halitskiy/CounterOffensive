@@ -27,7 +27,7 @@ public class FirstPersonMovement : MonoBehaviour
     [SerializeField] private float cameraProneHeight;
     [SerializeField] private CapsuleCollider ProneCollider;
     [SerializeField] private float StancePositionSmoothing;
-    [SerializeField] private playerStances PlayerStances;
+    [SerializeField] private PlayerStances playerStances;
 
     public LayerMask groundMask;
     public Transform groundCheck;
@@ -44,17 +44,18 @@ public class FirstPersonMovement : MonoBehaviour
     private float capsuleFloatSmoothingVelocity;
     private float animatorSpeed;
     private float cameraHeight, cameraSmoothingVelocity;
-    private bool isWalking, canJump;
+    private bool isWalking, canJump, isSprinting;
     // default values
     private float defaultForwardSpeed, defaultStrafeSpeed, defaultBackwardSpeed;
     //
-    private enum playerStances
+    private enum PlayerStances
     {
         Stand,
         Crouch,
         Prone
     }
     public bool IsWalking { get { return isWalking; } }
+    public bool IsSprinting { get { return isSprinting; } }
     public float Xinpt { get { return xInput; } }
     public float Yinpt { get { return yInput; } }
     public float AnimatorSpeed { get { return animatorSpeed; } }
@@ -85,44 +86,21 @@ public class FirstPersonMovement : MonoBehaviour
         }
         var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
         var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
-        movementVector.z = verticalSpeed;
-        movementVector.x = horizontalSpeed;
-        newMovementSpeed = Vector3.SmoothDamp(newMovementSpeed, movementVector, ref newMovementSpeedVelocity, movementSmoothing);
-        var movementSpeed = transform.TransformDirection(newMovementSpeed);
-        characterController.Move(movementSpeed);
-    }  
-    void CalculateNewMovement()
-    {
-        if (jumpInput && isGrounded && canJump)
-        {
-            gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
-        }
-        var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
-        var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
         movementVector = transform.forward * verticalSpeed + transform.right * horizontalSpeed;
         moveDirection = Vector3.SmoothDamp(moveDirection, movementVector, ref newMovementSpeedVelocity, movementSmoothing);
-        characterController.Move(moveDirection);
+        if (isSprinting)
+        {
+            characterController.Move(moveDirection * 1.5f);
+        }
+        else
+        {
+            characterController.Move(moveDirection);
+        }
+
     }
     void GetInput()
     {
-        if (Input.GetKeyDown(KeyCode.C))
-        {
-            if (PlayerStances == playerStances.Crouch)
-            {
-                PlayerStances = playerStances.Stand;
-                return;
-            }
-            PlayerStances = playerStances.Crouch;
-        }
-        else if (Input.GetKeyDown(KeyCode.Z))
-        {
-            if (PlayerStances == playerStances.Prone)
-            {
-                PlayerStances = playerStances.Stand;
-                return;
-            }
-            PlayerStances = playerStances.Prone;
-        }
+    
         jumpInput = Input.GetButton("Jump");
         xInput = Input.GetAxisRaw("Horizontal");
         yInput = Input.GetAxisRaw("Vertical");
@@ -135,6 +113,33 @@ public class FirstPersonMovement : MonoBehaviour
             
             isWalking = true; 
         }
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            if (playerStances == PlayerStances.Crouch)
+            {
+                playerStances = PlayerStances.Stand;
+                return;
+            }
+            playerStances = PlayerStances.Crouch;
+        }
+        else if (Input.GetKeyDown(KeyCode.Z))
+        {
+            if (playerStances == PlayerStances.Prone)
+            {
+                playerStances = PlayerStances.Stand;
+                return;
+            }
+            playerStances = PlayerStances.Prone;
+        }
+        if (Input.GetKey(KeyCode.LeftShift) && playerStances == PlayerStances.Stand && yInput == 1)
+        {
+            isSprinting = true;
+            
+        }
+        else
+        {
+            isSprinting = false;
+        }
     }
     void CalculateStances()
     {
@@ -146,7 +151,7 @@ public class FirstPersonMovement : MonoBehaviour
             var capsuleHeight = StandCollider.height;
             var capsuleCenter = StandCollider.center;
     
-        if(PlayerStances == playerStances.Crouch)
+        if(playerStances == PlayerStances.Crouch)
         {
             movementForwardSpeed = CrouchForwardSpeed;
             movementStrafeSpeed = CrouchStrafeSpeed;
@@ -156,7 +161,7 @@ public class FirstPersonMovement : MonoBehaviour
             capsuleHeight = CrouchCollider.height;
             stanceHeight = cameraCrouchHeight;
         }
-        else if(PlayerStances == playerStances.Prone)
+        else if(playerStances == PlayerStances.Prone)
         {
             movementForwardSpeed = ProneForwardSpeed;
             movementStrafeSpeed = ProneStrafeSpeed;
@@ -187,11 +192,9 @@ public class FirstPersonMovement : MonoBehaviour
             animatorSpeed = 1;
         }
         ControlGravity();
-        // CalculateMovement();
-        CalculateNewMovement();
+        CalculateMovement();
         GetInput();
         CalculateStances();
-        
     }
 
 }
