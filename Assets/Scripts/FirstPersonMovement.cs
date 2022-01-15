@@ -70,7 +70,7 @@ public class FirstPersonMovement : MonoBehaviour
     void ControlGravity()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded && canJump)
         {
             m_VerticalSpeed = jumpHeight;
         }
@@ -85,7 +85,7 @@ public class FirstPersonMovement : MonoBehaviour
     }
     void CalculateMovement()
     {
-        moveDirection = Vector3.ClampMagnitude(moveDirection, 0.02f);
+       // moveDirection = Vector3.ClampMagnitude(moveDirection, 0.02f);
         var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
         var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
         movementVector = transform.forward * verticalSpeed + transform.right * horizontalSpeed;
@@ -225,7 +225,8 @@ public class FirstPersonMovement : MonoBehaviour
         CalculateMovement();
         GetInput();
         CalculateStances();
-        Debug.Log(moveDirection.magnitude);
+        Debug.Log(canJump);
+       
     }
 
 }

@@ -80,17 +80,17 @@ public class WeaponController : MonoBehaviour
     {
         if (Input.GetMouseButton(1) && !firstPersonMovement.IsSprinting)
         {
-            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.fixedDeltaTime);
-            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.fixedDeltaTime * 0.5f);
-            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.fixedDeltaTime * 0.5f);
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
+            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
+            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
             recoilScript.aim = true;
           
         }
         else
         {
-            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.fixedDeltaTime);
-            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.fixedDeltaTime * 0.5f);
-            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.fixedDeltaTime * 0.5f);
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
+            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
+            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
             recoilScript.aim = false;
         }
 
