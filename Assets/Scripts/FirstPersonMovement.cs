@@ -53,6 +53,8 @@ public class FirstPersonMovement : MonoBehaviour
     private float nextTimeToStep;
     // default values
     private float defaultForwardSpeed, defaultStrafeSpeed, defaultBackwardSpeed;
+    // experimental variables
+    private float m_VerticalSpeed = 0f;
     //
     private enum PlayerStances
     {
@@ -69,6 +71,20 @@ public class FirstPersonMovement : MonoBehaviour
     void ControlGravity()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            m_VerticalSpeed = jumpHeight;
+        }
+        // Fall down / gravity
+        m_VerticalSpeed = m_VerticalSpeed - gravity * Time.deltaTime;
+        if (m_VerticalSpeed < -10.0f)
+            m_VerticalSpeed = -10.0f; // max fall speed
+        var verticalMove = new Vector3(0, m_VerticalSpeed * Time.deltaTime, 0);
+        var flag = characterController.Move(verticalMove);
+        if ((flag & CollisionFlags.Below) != 0)
+            m_VerticalSpeed = 0;
+        /*
+        
         if(isGrounded && gravityVelocity.y < 0)
         {
             characterController.stepOffset = 0.35f;
@@ -77,19 +93,23 @@ public class FirstPersonMovement : MonoBehaviour
         else
         {
             characterController.stepOffset = 0;
+            gravityVelocity.y += gravity * Time.deltaTime;
         }
-        gravityVelocity.y += gravity * Time.deltaTime;
+     
         
         characterController.Move(gravityVelocity * Time.deltaTime);
+        */
 
-      
     }
     void CalculateMovement()
     {
+     
+        /*
         if (jumpInput && isGrounded && canJump)
         {
             gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
+        */
         var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
         var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
         movementVector = transform.forward * verticalSpeed + transform.right * horizontalSpeed;
@@ -138,7 +158,7 @@ public class FirstPersonMovement : MonoBehaviour
             }
             playerStances = PlayerStances.Prone;
         }
-        if (Input.GetKey(KeyCode.LeftShift) && playerStances == PlayerStances.Stand && yInput == 1)
+        if (Input.GetKey(KeyCode.LeftShift) && playerStances == PlayerStances.Stand && yInput == 1 && isGrounded)
         {
             isSprinting = true;
             

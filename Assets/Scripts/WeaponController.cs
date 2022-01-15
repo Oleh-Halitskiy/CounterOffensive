@@ -80,17 +80,17 @@ public class WeaponController : MonoBehaviour
     {
         if (Input.GetMouseButton(1) && !firstPersonMovement.IsSprinting)
         {
-            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
-            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
-            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.deltaTime * 10f);
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, ADSPos.localPosition, ref scopingVelocity, 3.5f * Time.fixedDeltaTime);
+            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.fixedDeltaTime * 0.5f);
+            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 30, Time.fixedDeltaTime * 0.5f);
             recoilScript.aim = true;
           
         }
         else
         {
-            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.deltaTime);
-            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
-            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.deltaTime * 10f);
+            WeaponHolder.localPosition = Vector3.SmoothDamp(WeaponHolder.localPosition, WeaponPosition.localPosition, ref scopingVelocity, 3.5f * Time.fixedDeltaTime);
+            mainCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.fixedDeltaTime * 0.5f);
+            weaponCamera.GetComponent<Camera>().fieldOfView = Mathf.Lerp(mainCamera.GetComponent<Camera>().fieldOfView, 75, Time.fixedDeltaTime * 0.5f);
             recoilScript.aim = false;
         }
 
@@ -134,11 +134,11 @@ public class WeaponController : MonoBehaviour
         weaponAnimator.SetBool("IsSprinting", firstPersonMovement.IsSprinting);
         Shoot();
         Sway();
-
+        AimDownSights();
     }
     private void FixedUpdate()
     {
-        AimDownSights();
+     //   AimDownSights();
     }
 
 }

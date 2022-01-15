@@ -5,9 +5,9 @@ public class CameraRecoil : MonoBehaviour
 {
     private Vector3 currentRotation, targetRotation;
     [SerializeField] private float recoilX, recoilY, recoilZ, snapiness, returnSpeed;
-    void Update()
+    void FixedUpdate()
     {
-        targetRotation = Vector3.Lerp(targetRotation, Vector3.zero, returnSpeed * Time.deltaTime);
+        targetRotation = Vector3.Lerp(targetRotation, Vector3.zero, returnSpeed * Time.fixedDeltaTime);
         currentRotation = Vector3.Slerp(currentRotation, targetRotation, snapiness * Time.fixedDeltaTime);
         transform.localRotation = Quaternion.Euler(currentRotation);
     }
