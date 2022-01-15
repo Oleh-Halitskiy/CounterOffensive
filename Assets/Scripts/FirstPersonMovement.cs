@@ -38,9 +38,8 @@ public class FirstPersonMovement : MonoBehaviour
     public Transform cameraHolder;
     private float xInput, yInput;
     private Vector3 movementVector;
-    private Vector3 gravityVelocity;
     private CharacterController characterController;
-    private bool isGrounded, jumpInput;
+    private bool isGrounded;
     private Vector3 newMovementSpeedVelocity;
     private Vector3 capsuleSmoothingVelocity;
     private Vector3 newMovementSpeed;
@@ -71,7 +70,7 @@ public class FirstPersonMovement : MonoBehaviour
     void ControlGravity()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             m_VerticalSpeed = jumpHeight;
         }
@@ -83,40 +82,17 @@ public class FirstPersonMovement : MonoBehaviour
         var flag = characterController.Move(verticalMove);
         if ((flag & CollisionFlags.Below) != 0)
             m_VerticalSpeed = 0;
-        /*
-        
-        if(isGrounded && gravityVelocity.y < 0)
-        {
-            characterController.stepOffset = 0.35f;
-            gravityVelocity.y = -2f;
-        }
-        else
-        {
-            characterController.stepOffset = 0;
-            gravityVelocity.y += gravity * Time.deltaTime;
-        }
-     
-        
-        characterController.Move(gravityVelocity * Time.deltaTime);
-        */
-
     }
     void CalculateMovement()
     {
-     
-        /*
-        if (jumpInput && isGrounded && canJump)
-        {
-            gravityVelocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
-        }
-        */
+        moveDirection = Vector3.ClampMagnitude(moveDirection, 0.02f);
         var verticalSpeed = movementForwardSpeed * yInput * Time.deltaTime;
         var horizontalSpeed = movementStrafeSpeed * xInput * Time.deltaTime;
         movementVector = transform.forward * verticalSpeed + transform.right * horizontalSpeed;
         moveDirection = Vector3.SmoothDamp(moveDirection, movementVector, ref newMovementSpeedVelocity, movementSmoothing);
         if (isSprinting)
         {
-            characterController.Move(moveDirection * 1.5f);
+            characterController.Move(moveDirection * 1.65f);
         }
         else
         {
@@ -127,8 +103,6 @@ public class FirstPersonMovement : MonoBehaviour
     }
     void GetInput()
     {
-    
-        jumpInput = Input.GetButton("Jump");
         xInput = Input.GetAxisRaw("Horizontal");
         yInput = Input.GetAxisRaw("Vertical");
         if (xInput == 0 && yInput == 0 || isSprinting)
@@ -251,6 +225,7 @@ public class FirstPersonMovement : MonoBehaviour
         CalculateMovement();
         GetInput();
         CalculateStances();
+        Debug.Log(moveDirection.magnitude);
     }
 
 }
